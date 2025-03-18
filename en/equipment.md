@@ -8,7 +8,8 @@ aliases:
   - "equipment"
 ---
 
-# About tourist equipment
+
+# About tourist equipment
 
 One of advantages of the hiking is that the equipment is quite accessible to this kind of pastime at the price. The campaign costs not much: in comparison with any other sport your original expenses on articles of prime necessity are minimum, everything that it is necessary for you as base, these are good boots, some subjects of the appropriate clothes, convenient packing. Nevertheless, if you decide to realise the consumer requirements, at your service the extensive industry of the tourist goods and equipment from various world brands.
 

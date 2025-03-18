@@ -8,7 +8,8 @@ aliases:
   - "around"
 ---
 
-# The related (or similar)
+
+# The related (or similar)
 
 In [the list of that involves people in the hiking](hiking), the important place occupies possibility to feel feeling of autonomy and self-sufficiency, to feel being in "Open Space" - in literal and metaphorical sense. But for the overwhelming majority hikers is only time condition for the sake of which achievement they change the habitual lifestyle that after campaign end to come back in the ordinary inhabitancy. Therefore hikers it is always especially interesting to get acquainted with a lifestyle of those people for which the similar condition became not so "time", and "a constant" lifestyle. We do not speak here about professionals for whom tourism became a field of activity, allowing to earn on life and benefiting other people. It will be a question of others. More low the short survey of curious world outlooks and a selection of reference materials for more profound acquaintance.
 

@@ -8,7 +8,8 @@ aliases:
   - "stories/irina_to_stars"
 ---
 
-# История irina.to.stars - прохождение 4000 км Pacific Crest Trail (США)
+
+# История irina.to.stars - прохождение 4000 км Pacific Crest Trail (США)
 
 ## Предисловие
 

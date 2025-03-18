@@ -8,7 +8,8 @@ aliases:
   - "rules"
 ---
 
-# Rules of the hiking
+
+# Rules of the hiking
 
 Rules in the hiking are based on three principles: not to harm itself, not to harm other people and not to harm the nature.
 
@@ -208,8 +209,15 @@ The Tyrol Declaration is based on a set of values and maxims to give guidance on
 
 APPEAL:
 
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| \* Stretch your limits, lift your spirits and aim for the top. \* Accept the risks and assume responsibility. \* Balance your goals with your skills and experience. \* Play by fair means and report honestly. \* Strive for best practice and never stop learning. \* Be tolerant, considerate and help each other. \* Protect the wild and natural character of mountains and cliffs. \* Act withing the limits of effort and the 'barrier of fatigue'. \* Support local communities. |
+* Stretch your limits, lift your spirits and aim for the top. 
+* Accept the risks and assume responsibility. 
+* Balance your goals with your skills and experience. 
+* Play by fair means and report honestly. 
+* Strive for best practice and never stop learning. 
+* Be tolerant, considerate and help each other. 
+* Protect the wild and natural character of mountains and cliffs. 
+* Act withing the limits of effort and the 'barrier of fatigue'. 
+* Support local communities. |
 
 VALUES:
 

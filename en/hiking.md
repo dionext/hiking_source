@@ -8,7 +8,8 @@ aliases:
   - "hiking"
 ---
 
-# The hiking
+
+# The hiking
 
 ## The basic idea of the hiking
 

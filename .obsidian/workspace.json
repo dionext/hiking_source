@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/terms.md",
+                "file": "ru/videochannel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "terms"
+              "title": "videochannel"
             }
           }
         ]
@@ -170,14 +170,32 @@
   },
   "active": "66a27787279a7787",
   "lastOpenFiles": [
-    "en/ramsau_tracks.md",
-    "en/mallnitz_tracks.md",
+    "ru/trafic.md",
+    "ru/terms.md",
+    "ru/rules.md",
+    "ru/ramsau_tracks.md",
+    "ru/maps.md",
+    "ru/mallnitz_tracks.md",
+    "ru/links.md",
+    "ru/index.md",
+    "ru/hiking.md",
+    "ru/favorite.md",
+    "ru/equipment.md",
+    "ru/booking.md",
+    "ru/around.md",
+    "ru/alpenverein.md",
+    "ru/about.md",
+    "ru/stories/irina_to_stars.md",
     "en/videochannel.md",
     "en/trafic.md",
-    "en/index.md",
-    "places/list.md",
-    "places",
     "en/terms.md",
-    "en/hiking.md"
+    "en/rules.md",
+    "en/ramsau_tracks.md",
+    "en/maps.md",
+    "en/mallnitz_tracks.md",
+    "en/links.md",
+    "en/hiking.md",
+    "en/favorite.md",
+    "places"
   ]
 }

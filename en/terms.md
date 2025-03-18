@@ -8,7 +8,8 @@ aliases:
   - "terms"
 ---
 
-# Hiking and mountain terminology
+
+# Hiking and mountain terminology
 
 Hiking - to walk or march a great distance, especially through rural areas, for pleasure, exercise, training, or the like.
 

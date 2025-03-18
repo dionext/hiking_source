@@ -8,9 +8,10 @@ aliases:
   - "index"
 ---
 
-# The world of hiking
 
-Our project is about world of hiking (trekking, backpacking, etc. - see the section ["Terminology"](terms)). We give to you some "[the inspiring" materials](hiking) telling about why this kind of activity are such popular among people. Our overall objective - to help beginners to join this remarkable world of physical activity. Here you can find the help and technical information, helping to choose a direction for travel, to plan and be prepared for your trip. Our project also can be interesting to experienced travelers.  
+# The world of hiking
+
+Our project is about world of hiking (trekking, backpacking, etc. - see the section ["Terminology"](terms). We give to you some "[the inspiring" materials](hiking) telling about why this kind of activity are such popular among people. Our overall objective - to help beginners to join this remarkable world of physical activity. Here you can find the help and technical information, helping to choose a direction for travel, to plan and be prepared for your trip. Our project also can be interesting to experienced travelers.  
 [![](../images/pixabay/adventure-1851262_640.jpg)](../images/pixabay/adventure-1851262_1280.jpg) [Image by Pexels from Pixabay](https://pixabay.com/photos/adventure-hike-hill-landscape-1851262/)
 
 Hiking give fine possibility to us to estimate width and a variety of the nature. It brings to us elation and gives feeling of gratitude for ours existence. It connects us with that nature from which we have occurred and from which we are created. Hiking is also an excellent way to plunge into the nature for one day and an easy adventure, which you can spend on days off to leave from city vanity and to freshen yourselves till the morning on Monday.

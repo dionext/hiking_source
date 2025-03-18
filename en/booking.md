@@ -8,7 +8,8 @@ aliases:
   - "booking"
 ---
 
-# Housing for the hikers
+
+# Housing for the hikers
 
 Selection of the help information on how the tourist to search and reserve housing.
 

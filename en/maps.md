@@ -8,7 +8,8 @@ aliases:
   - "maps"
 ---
 
-# Cartography (maps)
+
+# Cartography (maps)
 
 From our point of view, the map are the main organizational and inspiring means of the hiker. Also they can be used for entertainment :).
 
