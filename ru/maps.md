@@ -91,6 +91,8 @@ Bergfex.at - это австрийская интернет-платформа �
 
 ### Другие online сервисы
 
+https://caltopo.com/  https://www.youtube.com/watch?v=4-XACV5OS44 
+
 [https://www.schweizmobil.ch/en/summer.html](https://www.schweizmobil.ch/en/summer.html) Карты Швейцарии
 
 [http://www.freizeitkarte.at/](http://www.freizeitkarte.at/freizeitkarte.php?gebiet_id=62&type=gebiet) Сайт (на немецком языке) с интерактивным приложением (на базе Adobe Flash - протестировано в FireFox) по нескольким альпийским регионам. При входе на сайта необходимо выбрать регион из списка. После этого откроется соответствующий сайт. Далее необходимо с помощью меню навигации запустить прохождение какого-нибудь из имеющихся на сайте маршрутов. После этого маршрут поэтапно будет показан на 3D изображении местности.

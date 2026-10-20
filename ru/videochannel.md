@@ -8,7 +8,8 @@ aliases:
   - "videochannel"
 ---
 
-**Наш видеоканал**
+
+**Наш видеоканал**
 
 На нашем [видеоканале](https://www.youtube.com/channel/UCsYA-4VXxbKB0lWMxkLoxFQ) размещены видеолекции по туристической тематике.
 
