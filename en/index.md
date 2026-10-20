@@ -11,28 +11,28 @@ aliases:
 
 # The world of hiking
 
-Our project is about world of hiking (trekking, backpacking, etc. - see the section ["Terminology"](terms). We give to you some "[the inspiring" materials](hiking) telling about why this kind of activity are such popular among people. Our overall objective - to help beginners to join this remarkable world of physical activity. Here you can find the help and technical information, helping to choose a direction for travel, to plan and be prepared for your trip. Our project also can be interesting to experienced travelers.  
+Our project is about the world of hiking (trekking, backpacking, etc. — see the section ["Terminology"](terms)). We offer some [inspiring materials](hiking) explaining why this activity is so popular. Our main goal is to help beginners discover this remarkable world of physical activity. Here you can find reference and technical information to help you choose a destination, plan your trip and prepare for it. Experienced travelers may also find our project interesting.
 [![](../images/pixabay/adventure-1851262_640.jpg)](../images/pixabay/adventure-1851262_1280.jpg) [Image by Pexels from Pixabay](https://pixabay.com/photos/adventure-hike-hill-landscape-1851262/)
 
-Hiking give fine possibility to us to estimate width and a variety of the nature. It brings to us elation and gives feeling of gratitude for ours existence. It connects us with that nature from which we have occurred and from which we are created. Hiking is also an excellent way to plunge into the nature for one day and an easy adventure, which you can spend on days off to leave from city vanity and to freshen yourselves till the morning on Monday.
+Hiking gives us a wonderful opportunity to appreciate the vastness and variety of nature. It lifts our spirits and makes us grateful for our existence. It connects us with the nature from which we emerged and of which we are a part. Hiking is also an excellent way to spend a day in nature: a small weekend adventure that lets you escape the bustle of the city and feel refreshed by Monday morning.
 
-In hiking we are involved with absence of necessity always to fill silence with words. You do not need to speak anything when you lie under stars or look in deep mountain gorge. Thus you have a feeling of surprise, extensiveness and sense.
+One attraction of hiking is the freedom from having to fill every silence with words. You do not need to say anything when you lie under the stars or look into a deep mountain gorge. You simply feel a sense of wonder, vastness and meaning.
 
-The hiking gives the chance to you to see absolutely tremendous landscapes which you simply do not receive in a city and cannot see from the car. You are waited for by beauty of mountain landscapes, lakes, falls, risings and sunsets.
+Hiking lets you see breathtaking landscapes that you cannot find in a city or see from a car: mountains, lakes, waterfalls, sunrises and sunsets. If you enjoy photography or filming, hiking will be especially interesting to you.
 
 [![](../images/pixabay/croda-da-lago-3573170_640.jpg)](../images/pixabay/croda-da-lago-3573170_1280.jpg) [Image by kordula vahle from Pixabay](https://pixabay.com/photos/croda-da-lago-dolomites-italy-3573170/)
 
-Sense of achievement - the key moment in mountain hiking. Climbing up on an abrupt mountain you remember that, as the spirit of adventurism is not alien to you.
+A sense of achievement is a key part of mountain hiking. Climbing a steep mountain reminds you of your own spirit of adventure.
 
-The hiking allows to us to take pleasure in feeling of autonomy. You can take and bear with yourselves everything that it is necessary for you for life, movement, a food and a lodging for the night. Check up to the ability to cook food, to equip "house", to clean itself and the clothes, using [the map](maps), a compass or GPS to find the way and to be ready to feel comfortable in any conditions.
+Hiking lets us enjoy a feeling of autonomy. You can carry everything you need for daily life, travel, meals and overnight stays. Test your ability to cook, set up your temporary home, keep yourself and your clothes clean, and use [a map](maps), a compass or GPS to find your way and feel comfortable in different conditions.
 **The short guidebook to site materials**
 
-The theoretical and "inspiring" information contains in section the theory: articles [hiking](hiking), [terminology](terms).
+The theoretical and inspiring information is in the theory section: [hiking](hiking) and [terminology](terms).
 
-The information in the selected tourist directions in section [Regions](places/list) (the information on the countries of the Alpine Europe is at the moment introduced)
+Information about selected tourist destinations is in [Regions](places/list) (currently covering the countries of Alpine Europe).
 
-The help and technical information in sections [Cartography](maps) (online maps, GPS tracks, devices and the software). [Transport](trafic) (plans, railway, cars), [Booking](booking), [Equipment](equipment). Separately - [Rules in campaigns](rules) (time calculation, the safety, typical errors of beginning tourists), [the Alpine unions](alpenverein)
+Reference and technical information is in [Cartography](maps) (online maps, GPS tracks, devices and software), [Transport](trafic) (planes, trains and cars), [Booking](booking) and [Equipment](equipment). Also see [Hiking rules](rules) (time estimates, safety and common beginner mistakes) and [Alpine clubs](alpenverein).
 
 [![](../images/pixabay/hikers-1147796_640.jpg)](../images/pixabay/hikers-1147796_1280.jpg) [Image by skeeze from Pixabay](https://pixabay.com/photos/hikers-mountain-sunset-hiking-1147796/)
 
-In addition sections: [Related](around) (or Similar) (a selection about related to tourism hobbies: nuddism, naturism, hippies, hermits), [Image Gallery](gallery/gallery), [Films about tourism](media/list) and [Links catalogue](links).
+Additional sections include [Related](around) (interests and lifestyles related to tourism: nudism, naturism, hippies and hermits), [Image Gallery](gallery/gallery), [Films about tourism](media/list) and [Links catalogue](links).

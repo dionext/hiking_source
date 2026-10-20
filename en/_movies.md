@@ -1,5 +1,5 @@
 # Movies about tourism
 
-We have collected a selection of descriptions of films which, in our opinion, could be interesting for hikers. In this selection are collected not only the films completely devoted to the hiking. Such films (where heroes all film walk along the trail), generally speaking, not so that much. Perhaps, the most classical representative of the given genre is the film ["Wild"](../media/Wild), but it is faster an exception to the rules.  Therefore we did not begin to limit ourselves  and have collected a collection of descriptions of films which concern tourism in general.
+We have collected a selection of descriptions of films which, in our opinion, could be interesting for hikers. The selection includes more than films devoted entirely to hiking. Generally speaking, there are relatively few films in which the characters spend the whole film walking along a trail. Perhaps the most classic example of this genre is the film ["Wild"](../media/Wild), but it is rather an exception to the rule.  Therefore we did not limit ourselves  and collected descriptions of films about tourism in general.
 
-The most of these films can quite be considered "inspiring" for any hikers. Or they simply will help to spend time in the evening or during journey by train or the plane.
+Most of these films can be considered inspiring for hikers. Or they can simply help pass the time in the evening or during a journey by train or plane.

@@ -1,5 +1,5 @@
 ---
-title: "Rules of the hiking"
+title: "Hiking rules"
 description: ""
 keywords: ""
 lang: "en"
@@ -9,9 +9,9 @@ aliases:
 ---
 
 
-# Rules of the hiking
+# Hiking rules
 
-Rules in the hiking are based on three principles: not to harm itself, not to harm other people and not to harm the nature.
+Hiking rules are based on three principles: do not harm yourself, other people or nature.
 
 ## Time calculation
 
@@ -21,13 +21,13 @@ In mountain campaigns of a rule of calculation of time more difficult. We result
 
 Rough values for calculation of time of walking:
 
-* About 300 metres of height at an o'clock for lifting
-* About 500 metres of height at an o'clock for draining off
-* About 4 kilometres across at an o'clock
+* About 300 metres of ascent per hour
+* About 500 metres of descent per hour
+* About 4 kilometres of horizontal distance per hour
 
-At first we count both values (time of walking for a difference in height or for horizontal distance) separately. Then smaller value decreases twice and is added to большему to value.
+First, calculate the time for the elevation change and the horizontal distance separately. Then halve the smaller value and add it to the larger one.
 
-Example: 1200 м and 8 km of distance to huts (lifting). At height of 1200 metres lifting occupies about 4 hours, and the 8-kilometre horizontal distance adds even 2 hours. Smaller value (2 hours) decreases twice and is added to larger value. So, 4 hours + 1 hour = 5 hours of an ascension.
+Example: an ascent of 1,200 m over a horizontal distance of 8 km. The ascent takes about 4 hours, while the horizontal distance corresponds to 2 hours. Halve the smaller value and add it to the larger: 4 hours + 1 hour = 5 hours.
 
 [![](../images/pixabay/cloud-2561878_640.jpg)](../images/pixabay/cloud-2561878_1280.jpg) [Image by StockSnap from Pixabay](https://pixabay.com/photos/cloud-sky-landscape-highland-2561878/)
 
@@ -195,7 +195,7 @@ Central Arizona Mountain Rescue Association promotes the 12 Essentials, which in
 ### The Tyrol Declaration
 
 **The aim of the Tyrol Declaration for mountain sports**  
-is to protect the freedom of participants and promote social development, cultural understanding and environmental awareness. To this end, the Tyrol Declaration follows the traditional unwritten values and codes of conduct inherent in mountain sports and expands on these to meet the demands of our times. These proposals for best practice in mountain sports are adressed to all lovers of the mountains worldwide - whether they be hikers and trekkers, sport climbers, or mountaineers seeking to push their limits at high altitudes. With these proposals we especially hope to reach young people, for they are the future of mountain sports.
+is to protect the freedom of participants and promote social development, cultural understanding and environmental awareness. To this end, the Tyrol Declaration follows the traditional unwritten values and codes of conduct inherent in mountain sports and expands on these to meet the demands of our times. These proposals for best practice in mountain sports are addressed to all lovers of the mountains worldwide - whether they be hikers and trekkers, sport climbers, or mountaineers seeking to push their limits at high altitudes. With these proposals we especially hope to reach young people, for they are the future of mountain sports.
 
 The Tyrol Declaration is based on a set of values and maxims to give guidance on best practice in mountain sports. These values and maxims are not rules or detailed instructions, rather
 
@@ -216,7 +216,7 @@ APPEAL:
 * Strive for best practice and never stop learning. 
 * Be tolerant, considerate and help each other. 
 * Protect the wild and natural character of mountains and cliffs. 
-* Act withing the limits of effort and the 'barrier of fatigue'. 
+* Act within the limits of effort and the 'barrier of fatigue'. 
 * Support local communities. |
 
 VALUES:
@@ -225,7 +225,7 @@ VALUES:
 In keeping with Article 1 of the UN Bill of Human Rights, the proposals are based on the premise that human beings are born free and equal in dignity and rights and should treat one another in the spirit of brotherhood. Particular attention should be given to equal rights of men and women.
 
 ***Life, liberty, happiness***  
-Is goes without saying that climbers and mountaineers subscribe to the inalienable human rights, foremost life, liberty, and the pursuit of happiness. We feel a special responsibility towards the indigenious populations of mountain areas, whose right to a dignified, self-determined life must be protected by all possible means.
+It goes without saying that climbers and mountaineers subscribe to the inalienable human rights, foremost life, liberty, and the pursuit of happiness. We feel a special responsibility towards the indigenous populations of mountain areas, whose right to a dignified, self-determined life must be protected by all possible means.
 
 ***Intactness of nature***  
 Thanks to their intensive contact with nature, climbers and alpinists develop awareness for the beauty of a healthy environment and the need to preserve its flora and fauna. "Leave no traces" has always been a key issue in our environmental philosophy. With the growing threat to fragile ecosystems in mountain regions all over the world, one of the most important commitments of the climbing community has become the protection of endangered species of flora and fauna, both in the mountains and in crag climbing areas.
@@ -243,10 +243,10 @@ As performance in climbing frequently goes unwitnessed and often can't be indisp
 All mountaineers and rock climbers like to tackle problems that challenge them both physically and mentally, striving for both elegant and controlled execution of the task. Many activists strive to improve their abilities. Without continual progress on the cutting edge of performance, climbing would lose much of its dynamism and fascination.
 
 ***Adventure***  
-We experience our own performance most intensively when - moving close to our limits - we interact with the natural obstacles posed by mountains or crags as directly as possible, with a minimum of interfering technology. For this reason, risk and advantage are essential factors in climbing. The intensive feeling of satisfaction climbing can impart, is a product of the exiting balance between danger and safety achieved through skillfully blending courage, rational judgment, emotional control, responsibility and athletic prowess. The diversity of disciplines in mountain sports - hiking, adventure climbing and sport/plaisir climbing - allows everyone to chose their own individual adventure, where their skills and the dangers are in balance.
+We experience our own performance most intensively when - moving close to our limits - we interact with the natural obstacles posed by mountains or crags as directly as possible, with a minimum of interfering technology. For this reason, risk and advantage are essential factors in climbing. The intensive feeling of satisfaction climbing can impart, is a product of the exciting balance between danger and safety achieved through skillfully blending courage, rational judgment, emotional control, responsibility and athletic prowess. The diversity of disciplines in mountain sports - hiking, adventure climbing and sport/plaisir climbing - allows everyone to choose their own individual adventure, where their skills and the dangers are in balance.
 
 **The quality of values**  
-Although individualistic values play an essential role in defining climbing, we need to realize that in any moral issue, these rank below humane principles and environmentally-oriented ideals. Putting self-actualization, performance and adventure above the right to life of Man and his natural environment is incompatible with the humanistic values of mountaineering and rock climbing. It is the responsibilty of every single climber to weigh and balance the values of his sport so that climbing can keep its integrity and is able to stand up against current trends marked by shortsightedness, egotism and greed.
+Although individualistic values play an essential role in defining climbing, we need to realize that in any moral issue, these rank below humane principles and environmentally-oriented ideals. Putting self-actualization, performance and adventure above the right to life of Man and his natural environment is incompatible with the humanistic values of mountaineering and rock climbing. It is the responsibility of every single climber to weigh and balance the values of his sport so that climbing can keep its integrity and is able to stand up against current trends marked by shortsightedness, egotism and greed.
 
 -------------------------------------------------------------------------
 

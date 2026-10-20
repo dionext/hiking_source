@@ -10,7 +10,7 @@ aliases:
 
 # History of irina.to.stars - 4000 km Pacific Crest Trail (USA)
 
-Having placed the description of the film "Wild" in the top of our rating, could we have assumed that in a few months we would be able to meet a Russian girl who could well be the prototype of the main character of the film (of course, with the amendment that the film "Wild" already had real prototype in the USA)?
+After placing "Wild" at the top of our film ranking, could we have imagined that a few months later we would meet a Russian woman who could have inspired its main character? Of course, the film already had a real-life prototype in the United States.
 
 ![](../../images/stories/irina.to.stars.png)
 
@@ -18,21 +18,21 @@ The acquaintance happened quite by accident at a tourist rally by a common fire,
 
 ![](../../images/stories/irina.to.stars.instagram.png)
 
-Each reader can draw his own conclusions on this score, and here we will share ours with you.
+Readers can draw their own conclusions; here we will share ours.
 
-Alas, but modern industrial civilization often drives people into an absolute dead end in life, completely depriving their lives of meaningful fullness ("existential vacuum" in terms of psychologist and philosopher [V. Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)). There are two ways to get out of this impasse (to be in which for a long time is destructive for a person): to step down one step or step up one step. And not so much in the intellectual as in the worldview.
+Modern industrial civilization often drives people into a dead end, depriving their lives of meaning — an "existential vacuum", in the terminology of psychologist and philosopher [V. Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl). Remaining in this state for a long time is destructive. There are two ways out: a step down or a step up, primarily in outlook rather than intellect.
 
-In the first case (step down), a person simply suppresses the desire to understand what I am and who I am, and in the future lives according to a primitive robotic scheme. Which can be conventionally called "home - work". At the same time, he does not cease to be human and also contributes to human civilization. But the question is - is this "contribution" adequate to its strengths and capabilities? Not to mention the fact that in this way a person puts an end to his inner development.
+In the first case, a person suppresses the desire to understand who they are and lives by a primitive, robotic pattern that might be called "home–work". They remain human and contribute to civilization, but does this contribution match their strengths and abilities? This approach also puts an end to inner development.
 
-The second way is, of course, a step upward along the path of enriching our life with that semantic content that best suits the forces and capabilities given to us by nature, as well as the knowledge gained as a result of reading books and numerous hours we spent on school benches and institutes. audiences.
+The second way is a step upward: enriching life with meaning that suits the strengths and abilities nature has given us, as well as the knowledge gained from books and the many hours spent in school and university classrooms.
 
-And in order to make this very "step up" many (though not all) people necessarily need some kind of "tool" to break through the vicious circle of everyday life. Such a "tool" can be easily found if you look in the direction of hiking and mountain tourism, etc. - that is, all those activities that are associated with overcoming oneself, overcoming external difficulties and hardening one's own character.
+To take this "step up", many people, though not everyone, need a tool to break out of the cycle of everyday life. Hiking, mountain tourism and similar activities can provide such a tool, because they involve overcoming personal limitations and external difficulties, and strengthening character.
 
-This tool can be useful for many people. The only difference is that someone does not necessarily need to go 4000 km of the way, and maybe 400 km is enough to shake things up, or even 40 km is enough. Although 4 km will probably not be enough. However, they are also useful for further maintaining the tone.
+This tool can help many people. Some may need to walk 4,000 km, while for others 400 km or even 40 km may provide enough of a shake-up. Four kilometres will probably not be enough, though they can still help maintain your energy afterward.
 
-Hiking, among other things, provides a good opportunity to be alone with yourself, to reflect on life. This is if you go alone. Or chat with people who may have similar motivations. This is if you go as part of a group. However, both of these possibilities can be combined. An example of which are Irina's diary entries. Although she walked the PCT alone (six months!), As she passed the route, she constantly crossed paths with different people, part of the life stories that are posted on her instagram.
+Hiking also offers a chance to be alone and reflect on life if you travel solo, or to talk with people who may share your motivations if you travel in a group. Both experiences can be combined. Irina's diary is an example: although she walked the PCT alone for six months, she constantly crossed paths with other people and shared some of their life stories on Instagram.
 
-Next, we will give a number of points (quotes) from Irina's story, which seemed to us to be key for understanding its essence. Although, of course, we do not pretend that we have fully reached this understanding :).
+Below are several passages from Irina's story that seemed central to understanding it. Of course, we do not claim to have understood it completely :).
 
 ## Before the PCT. Biography
 

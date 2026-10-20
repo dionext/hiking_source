@@ -23,7 +23,7 @@ aliases:
 
 [![](../images/pixabay/eagle-1009771_640.jpg)](../images/pixabay/eagle-1009771_1280.jpg) [Image by chezbeate from Pixabay](https://pixabay.com/photos/eagle-majestic-animal-bird-freedom-1009771/)
 
-[https://www.bergfex.com/](https://www.bergfex.com/) Bergfex.at Is an Austrian Internet platform for mountaineering and the Alpine sports, the largest in Europe in this sector. The site gives more than 1700 mounting skiing resorts from twelve European countries and 525 tourist regions from seven states. For reception of the information on destination as that, the information on station work, objects of housing, reports on snow and the weather, carefully prepared maps and sharts, references to webcams and other timely information, concerning excursions and rest. Besides, there are numerous descriptions of rounds on more simple campaigns and bicycle routes, from family walks before rounds top-level, and also to sights in this area. The portal is accessible in 18 languages (bergfex.at, bergfex.ch, bergfex.de, bergfex.it, bergfex.fr so further).
+[https://www.bergfex.com/](https://www.bergfex.com/) Bergfex.at is an Austrian online platform for mountaineering and Alpine sports, the largest in Europe in this sector. The site covers more than 1,700 ski resorts in twelve European countries and 525 tourist regions in seven countries. It offers destination information, lift operating hours, accommodation, snow and weather reports, detailed maps, webcam links and other information for excursions and holidays. It also describes hiking and cycling routes, ranging from family walks to challenging tours, as well as local attractions. The portal is available in 18 languages (bergfex.at, bergfex.ch, bergfex.de, bergfex.it, bergfex.fr, and others).
 
 [http://www.wandermap.net/](http://www.wandermap.net/) The interactive map with the user foot routes (worldwide, but the greatest quantity in Europe)
 
@@ -33,17 +33,17 @@ aliases:
 
 [![](../images/pixabay/allgau-1094796_640.jpg)](../images/pixabay/allgau-1094796_1280.jpg) [Image by D Mz from Pixabay](https://pixabay.com/photos/allg%C3%A4u-break-rest-bank-view-1094796/)
 
-[https://www.booking.com](https://www.booking.com) Booking.com - system of Internet booking of hotels
+[https://www.booking.com](https://www.booking.com) Booking.com - an online hotel booking system
 
-[https://www.hostelworld.com/](https://www.hostelworld.com/)- hostels and budgetary hotels
+[https://www.hostelworld.com/](https://www.hostelworld.com/)- hostels and budget hotels
 
-[https://airbnb.com/](https://ru.airbnb.com/) Airbnb - online a platform for housing, search and short-term rent of private housing worldwide.
+[https://airbnb.com/](https://ru.airbnb.com/) Airbnb - an online platform for listing, finding and renting private accommodation worldwide.
 
-[https://www.couchsurfing.com/](https://www.couchsurfing.com/)- service of search of free housing at local residents worldwide.
+[https://www.couchsurfing.com/](https://www.couchsurfing.com/)- a service for finding free accommodation with local residents worldwide.
 
-[https://www.tripadvisor.com](https://www.tripadvisor.com/) -- the most popular portal all over the world. Real responses of travellers about hotels, restaurants and sights offers TripAdvisor.
+[https://www.tripadvisor.com](https://www.tripadvisor.com/) -- a popular portal worldwide. TripAdvisor offers real reviews by travelers about hotels, restaurants and attractions.
 
-[https://camping.info](https://camping.info/) Here you will find 23 019 places (for May, 2019) for a camping in Europe and can estimate them.
+[https://camping.info](https://camping.info/) Here you will find 23,019 campsites in Europe (as of May 2019), which you can rate.
 
 [http://www.freizeitkarte.at/](http://www.freizeitkarte.at/freizeitkarte.php?gebiet_id=62&type=gebiet) the Site (in German) with the interactive appendix (on the basis of Adobe Flash - it is tested in FireFox) on several Alpine regions. At an input on a site it is necessary to choose region from the list. After that the corresponding site will open. Further it is necessary to start by means of the navigation menu passage any of routes available on a site. After that the route will be stage by stage shown on 3D the district image.
 

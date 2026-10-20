@@ -11,57 +11,57 @@ aliases:
 
 # About tourist equipment
 
-One of advantages of the hiking is that the equipment is quite accessible to this kind of pastime at the price. The campaign costs not much: in comparison with any other sport your original expenses on articles of prime necessity are minimum, everything that it is necessary for you as base, these are good boots, some subjects of the appropriate clothes, convenient packing. Nevertheless, if you decide to realise the consumer requirements, at your service the extensive industry of the tourist goods and equipment from various world brands.
+One advantage of hiking is that its equipment is affordable. Compared with other sports, the initial cost of essential items is low: good boots, suitable clothing and a comfortable backpack are enough to get started. If you want to buy more, a large industry offers hiking goods and equipment from brands around the world.
 
-Generally speaking, the consumerism is alien to spirit of the hiking which basic ideology is "freedom" from civilization frameworks and stereotypes, and also naturalness, affinity to the nature. Nevertheless it is not necessary to erect it in the absolute, completely rejecting and despising work of hundreds thousand the people working in the industry of manufacture of the tourist goods. They do it not only for the sake of a profit, but also and for the sake of self-realization and progress, put the work and talent, and finally try for us.
+Generally speaking, consumerism is foreign to the spirit of hiking, which values freedom from the constraints and stereotypes of civilization, naturalness and closeness to nature. Still, we should not take this to extremes by dismissing the work of the hundreds of thousands of people who make hiking equipment. They work not only for profit, but also for self-realization and progress, contributing their labor and talent for our benefit.
 
-Therefore, if financial possibilities allow, tourist "shopping" can become the additional inspiring factor for the hiker. However, if financial possibilities are limited, it at all will not be an obstacle for employment by the hiking since in the elementary event of any especial equipment it is not required.
+If your finances allow, shopping for hiking equipment can be another source of inspiration. Limited funds, however, need not prevent you from hiking: the simplest outings require no special equipment.
 
 [![](../images/pixabay/backpack-1062702_640.jpg)](../images/pixabay/backpack-1062702_1280.jpg) [Image by rggroning from Pixabay](https://pixabay.com/photos/backpack-camino-camino-de-santiago-1062702/)
 
-The basic equipment of the hiker for one-day хайкинга are:
+The basic equipment for a day hike is:
 
 * Backpack
 * Footwear
 * Protection against a rain
 
-For campaigns with spending the night it is added
+For overnight hikes, add:
 
 * Tent
 * Sleeping bag
 * Tourist rug or inflatable mattress
 * Tourist complete sets for cooking. And about food and water also it is not necessary to forget :)
 
-Additional equipment in both events enough big set of various things can be:
+Additional equipment for either type of hike can include:
 
 See also "Ten Essentials" in ["Rule"](rules) section
 
 * trekking poles
-* Additional warm clothes, including the complete set of thermolinen, glove, sports cap
+* Additional warm clothes, including thermal underwear, gloves and a warm hat
 * Protection against the sun. Sun glasses, a sun-protection cream for lips and a skin, a hat, clothes for protection against the sun.
-* Navigation means. An electronic topographic map on the smart phone, the portable navigator or other electronic device. A paper topographic map and various maps in the water-proof container, and also a magnetic compass, additional высотомер or the GPS-receiver.
+* Navigation means. An electronic topographic map on the smart phone, the portable navigator or other electronic device. A paper topographic map and various maps in the water-proof container, and also a magnetic compass, an optional altimeter or the GPS-receiver.
 * Illumination. A headlight, a small lamp, accumulators. The light-emitting diode lamp is preferable to prolongation of a lifetime of the battery.
 * First aid subjects (the first aid first-aid set), and also means from insects.
-* Fire. A butanovaja lighter, matches in water-proof container.
-* The repair complete set and tools. Knifes, the multipurpose tool, scissors, flat-nose pliers, a screw-driver, a shpatel/shovel, a sticky tape, cable couplers.
-* ледоруб for travel on a glacier or a snow field (if necessary)
+* Fire. A butane lighter, matches in water-proof container.
+* The repair complete set and tools. Knives, the multipurpose tool, scissors, flat-nose pliers, a screw-driver, a trowel/shovel, a sticky tape, cable couplers.
+* An ice axe for travel on a glacier or a snow field (if necessary)
 * Signalling devices, such as a whistle, a mobile phone, a bilateral radio communication, satellite phone, an unbreakable alarm mirror or flash, a laser pointer.
 * Etc.
 
-As producers of tourist equipment are directly interested in advertising of the goods, the Internet can be found in a net enough professional surveys, comparisons and reports on equipment testing (references in each section and in the end of page see). We, without applying for completeness of coverage of a theme, we give here only a few the basic councils, a concerning choice of tourist equipment.
+Because equipment manufacturers have an interest in advertising their products, you can find many professional reviews, comparisons and test reports online (see the links in each section and at the end of this page). Without claiming to cover the subject fully, we offer a few basic tips on choosing hiking equipment.
 
-## Tourist backpack
+## Hiking backpack
 
-The key rule at a choice of a backpack for a lung hiking is simple: in it all your things which you are going to take with yourselves should be located. Therefore be not too lazy to gather in advance them, including protection against a rain, warming clothes and a stock of provisions and at least a litre bottle of water approximately to estimate necessary volume (some even advise to take weigh this set with itself in tourist shop).
+The main rule when choosing a backpack for light hiking is simple: it should hold everything you plan to take. Gather your rain protection, warm clothing, food and at least a litre of water in advance to estimate the volume you need. Some people even recommend taking the whole kit to the outdoor shop.
 
-The second are important the factor (even for easy campaigns) water resistance of a backpack is. However, in this respect there are some approaches
+A second important factor, even for easy hikes, is a backpack's water resistance. There are several approaches:
 
-* Good waterproof a backpack (unlike a jacket or boots, from it normally it is not required that the backpack "breathed" so the choice of materials is more), with stitched, glued and protected by seams
-* Backpack from any material (it is desirable partially water-proof) if the special waterproof cover is applied on it
-* Backpack from any material (it is desirable partially water-proof) if your raincoat from a rain has such design which allows you to put on after you have put on a backpack (the raincoat appears from above a backpack)
-* Backpack from any material (it is desirable partially water-proof), but in which you carefully pack all things into waterproof packages. The most undesirable variant, and here to pack valuable things into airproof packing it is useful at any deal.
+* A waterproof backpack with stitched, sealed and protected seams. Unlike a jacket or boots, a backpack usually does not need to "breathe", so there is a wider choice of materials.
+* A backpack made from any material, preferably partly water-resistant, with a separate waterproof cover.
+* A backpack made from any material, preferably partly water-resistant, with a rain poncho designed to fit over both you and the backpack.
+* A backpack made from any material, preferably partly water-resistant, with all contents carefully packed in waterproof bags. This is the least desirable option on its own, but waterproof packaging for valuables is useful in any case.
 
-At a choice of a backpack for more difficult campaigns when the backpack has considerable weight, on the foreground there is a factor of a design of fastening of a backpack on a back. In particular, the design and coverage of a zone belt are important. If the backpack is picked up correctly, the most part weight, should have not on shoulders, and on feet (a support - a zone belt). Actual the rigid design of a skeleton of a back of a backpack also is
+For more demanding hikes with a heavy backpack, the suspension system becomes especially important. Pay attention to the design and fit of the hip belt. A correctly fitted pack transfers most of the load to your hips rather than your shoulders. A rigid back frame is also useful.
 
 Recommendations about volume of a tourist backpack
 
@@ -72,62 +72,62 @@ Recommendations about volume of a tourist backpack
 | 3-5 days                                   | 60-80              |
 | From a week and more                       | From 80            |
 
-And at last, it is necessary to pay attention to additional factors: presence of pockets, various branches for things, convenience of access to them, special fastenings for hinged things (for example, bottles with water, trekking poles or ice ax). Good addition will be presence on a zone belt of a backpack of special pockets - in them it is possible to hold small things which are required to be taken out often in process of movement on a route. However such pockets if they are not compensated by clothes pockets, it is possible to compensate absence purchase of an additional zone bag. Last variant is very convenient for easy tracking since the easy backpack often has no zone belt in general.
+Finally, consider pockets, compartments, ease of access and attachments for items such as water bottles, trekking poles or an ice axe. Hip-belt pockets are useful for small items you need frequently on the trail. If neither the backpack nor your clothing has suitable pockets, a waist bag can make up for their absence. This is especially useful for light hiking, as small backpacks often have no hip belt.
 
 **References:**
 
 The Ultimate Guide to Choosing the Best Travel Backpack 2018 [https://www.wheressharon.com/x-featured-discussions/best-travel-backpack/](https://www.wheressharon.com/x-featured-discussions/best-travel-backpack/)
 
-## Tourist footwear
+## Hiking footwear
 
-For a lung hiking the simple sports footwear quite approaches: snickers or simple tourist boots. Than easier footwear, especially universal it is, and consequently it can be used and out of campaign time that will allow to save money. There are some factors which dictate necessity of more specialised footwear:
+For light hiking, ordinary sports shoes or simple hiking boots may be suitable. Simpler footwear is often more versatile and can also be worn outside hikes, saving money. Several factors may call for more specialized footwear:
 
-* Campaigns in the conditions of a difficult surface. For example, in the conditions of mountain stony district are desirable more rigid tourist boots protecting a foot (and a boot) from lateral blows about stones. In the conditions of a wet surface (especially stony) the footwear with good coupling on a wet surface is necessary.
-* Campaigns with a heavy backpack. Are desirable more rigid tourist boots are desirable.
-* For people with certain physical problems or weak physical preparation, and also excess weight it is necessary to select footwear individually and whenever possible to prefer specialised tourist footwear of the universal. For example, at the raised hazard to sprain a foot (old traumas, stretchings, etc.) are desirable higher tourist boots somewhat protecting an ankle joint. At problems with flat feet the great value gets presence of anatomic insoles, etc.
+* Difficult terrain. On rocky mountain trails, sturdier boots help protect your feet and the boots themselves from side impacts. On wet surfaces, especially rocks, footwear needs good wet-surface grip.
+* Hikes with a heavy backpack. Sturdier hiking boots are preferable.
+* People with physical limitations, limited fitness or excess weight should choose footwear individually and consider specialized hiking footwear. For example, higher boots offer some ankle protection when there is a risk of sprains from previous injuries. Anatomical insoles may be important for people with flat feet.
 
 [![](../images/pixabay/boot-1632050_640.jpg)](../images/pixabay/boot-1632050_1280.jpg) [Image by Gianni Crestani from Pixabay](https://pixabay.com/photos/boot-mountain-top-carega-refuge-1632050/)
 
-The standard classification of tourist footwear
+The standard classification of hiking footwear
 
-* Boots for a lung trekking or hiking boots. For simple tourist routes and day off campaigns provided that the weight of a backpack does not exceed 15 kg
-* Classical "midweight trekking boots". For extended tourist routes at heights to 3000 m with moderately heavy backpack in weight to 25 kg.
-* Trekking boots for mountain or difficult campaigns lasting many days ("heavy backpacking boots"). For passage of routes with a difficult land forms, in a changing weather environment and weight of a backpack more than 25 kg.
+* Light trekking or hiking boots: for simple routes and weekend hikes with a backpack weighing no more than 15 kg.
+* Classic "midweight trekking boots": for longer routes at elevations up to 3,000 m, with a moderately heavy backpack weighing up to 25 kg.
+* "Heavy backpacking boots": for demanding mountain routes and multi-day hikes over difficult terrain in changing weather, with a backpack weighing more than 25 kg.
 
-Councils at purchase of boots
+Tips for buying boots
 
-* Not to buy before the campaign (time is necessary to get used to boots, to "carry" them)
-* Not to buy there where it is impossible to try on (for example, in Internet shops) if certainly you have no already sufficient experience of similar purchases
-* It is desirable to buy footwear in such shops where you гарантированно can exchange it in case the size and a design has not approached
-* It is necessary to prefer more free footwear of narrower since during long movement of stop can swell. Nevertheless the footwear should be selected so that the foot "did not dangle" in a boot.
-* To try on boots in shop it is better in the evening - foot will be slightly wider and more in volume that simulates its condition on a route.
-* At примерке try variants with various socks (thick and thin), calculated on a various weather environment
-* Your fingers of feet should not concern a sock when the footwear is laced densely up. To estimate, whether enough free space before fingers, it is possible to unlace slightly a boot and as much as possible to shift foot forward against the stop. Released "stock" should make 0.5-1 sm at boots for a lung and an average треккинга, and 1-1.5 sm - for heavy.
-* More free footwear can be partially compensated use of special anatomic insoles
+* Do not buy boots immediately before a hike: allow time to get used to them and break them in.
+* Avoid buying boots without trying them on, for example online, unless you have sufficient experience with such purchases.
+* Buy footwear from a shop that allows exchanges if the size or fit is unsuitable
+* Prefer a roomier fit to a narrow one, as feet can swell during prolonged walking. Your foot should still be held securely in the boot.
+* Try on boots in the evening, when your feet are slightly larger, to approximate their condition on the trail.
+* Try boots with different socks, both thick and thin, intended for different weather conditions.
+* Your toes should not touch the front of a firmly laced boot. To check the available space, loosen the laces and slide your foot forward until your toes touch the front. The gap behind your heel should be 0.5–1 cm for light and medium trekking boots, or 1–1.5 cm for heavy boots.
+* Anatomical insoles can partly compensate for a slightly loose fit.
 
 Water resistance of boots.
 
-Water resistance of boots is unequivocally necessary for the hiker since the campaign is normally planned at least on to be the overtaken rain all the day and consequently the risk essentially increases. Besides morning and evening dew at passage of grassy sites, campaigns on boggy district, snow sites - all it also is the factors leading промоканию of a boot. However the more "waterproof" the boot is, the is worse he "breathes" that provokes raised потоотделение with all that it implies from this problems. Therefore it is necessary to search for itself for the reasonable compromise.
+Water resistance is important for hikers because a full day outdoors increases the chance of being caught in rain. Dew on grass, boggy ground and snow can also wet your boots. However, the more waterproof a boot is, the less well it tends to breathe, leading to increased sweating. You need to find a reasonable compromise.
 
-One of possible decisions is use of membrane technologies (for example, GORE-TEX). These technologies provide preservation of dryness and comfort of a foot in a difficult weather environment (as that: from moisture hit inside and at the expense of a partial conclusion of a moisture outside). Nevertheless, the foot in such boots breathes nevertheless worse, than in промокаемых materials. It is necessary to consider a membrane normally there are in inner thin enough layer boots and and to walking wears out fastest that results to loss of water protective attributes. Wrong drying is hazardous to membranes (for example, near a fire) which can lead to sintering of a time of a synthetic material then the foot in such boots ceases to breathe in general (good news thus is that boots become completely water-proof :))
+One option is membrane technology, such as GORE-TEX. It helps keep feet dry and comfortable by preventing water from entering while allowing some moisture to escape. Even so, membrane boots breathe less well than permeable materials. The membrane is usually a thin inner layer that wears during walking, reducing water resistance. Incorrect drying, for example beside a fire, can damage the membrane and seal the pores of the synthetic material, leaving the boots unable to breathe (the good news is that they then become completely waterproof :)).
 
 **References:**
 
 How to Choose Hiking Boots [https://www.rei.com/learn/expert-advice/hiking-boots.html](https://www.rei.com/learn/expert-advice/hiking-boots.html)
 
-## Tourist clothes
+## Hiking clothing
 
-Normally consider some "layers"
+Clothing is usually considered in layers:
 
-* Inside layer. Underwear, thermal underwear (contrary to ordinary opinion, the thermal underwear main task not directly warming, and moisture tap (sweat) that promotes warming indirectly).
-* Intermediate layer. Warming. A sweater, fleece, or the second layer of warming linen.
-* External layer. Protection against a rain and a wind.
+* Inner layer: underwear and thermal underwear. The main purpose of thermal underwear is to wick away moisture, rather than directly provide warmth; this helps keep you warm indirectly.
+* Middle layer: insulation, such as a sweater, fleece or second layer of thermal clothing.
+* Outer layer: protection from rain and wind.
 
-By itself, presence of all three layers as separate component is unessential, since their functions can be combined in certain models of equipment. For example, the jacket can serves both external, and a warming layer. Or certain models of two-layer thermal underwear (expensive enough) combine functions sweat lead and warming.
+The three layers need not be separate garments, because their functions can be combined. For example, a jacket can provide both weather protection and insulation. Some relatively expensive two-layer thermal garments combine moisture wicking and warmth.
 
 ## Good advice
 
-> About ultralight. I very much love easy equipment. The easier the backpack weight, the is less spent forces and the more them it is necessary to look around and admire the nature. After all behind it we also go to mountains? At all for this purpose, what "to die under a backpack"! However it is important to understand that the economy of each kg and even gramme of weight of equipment is reached or decrease in its reliability or demands use of the most technological and expensive materials, miracles do not happen! Whether there is an optimum in this race for simplification of weight of your equipment?? Here at everyone the answer which, in my opinion to experience, depends not only on financial possibilities. Whether it is necessary to overpay five thousand roubles for a sleeping bag which is easier on 500 gramme? Whether the overpayment of 3000 roubles for lungs, but stronger кроссовки, than cheap stuff from pseudo-sports brands is justified? I will tell so: all depends on how much you love yourselves, are how much ready to be spent in the hobby for mountains. Here again, unfortunately, the limit to fanaticism is not present. For example, my purpose by next summer to go to peshe-mountain campaigns lasting many days with a backpack in weight no more than 10-12 kg and for achievement of this purpose I am ready to spend money. On what you stop - solve!
+> About ultralight equipment. I love lightweight gear. The lighter your backpack, the less energy you expend and the more you have left to look around and admire nature. After all, that is why we go to the mountains, rather than to "die under a backpack"! But every kilogram or gram saved comes either at the expense of reliability or through more advanced and expensive materials. There are no miracles. Is there an optimum in this race to reduce equipment weight? Everyone has their own answer, which, in my experience, depends on more than finances. Is it worth paying five thousand roubles more for a sleeping bag that is 500 grams lighter? Or three thousand more for light, durable trainers instead of cheap pseudo-sports brands? It depends on how much you value your comfort and are willing to spend on your passion for mountains. Unfortunately, there is no limit to enthusiasm. My goal for next summer is to go on multi-day mountain hikes with a backpack weighing no more than 10–12 kg, and I am willing to spend money to achieve it. Decide for yourself where to stop!
 > D.Kovinov [http://www.kovinov.com/europe/alpy/snarjazhenie/](http://www.kovinov.com/europe/alpy/snarjazhenie/)
 
 [![](../images/pixabay/gloves-81377_640.jpg)](../images/pixabay/gloves-81377_1280.jpg) [Image by Hans Braxmeier from Pixabay](https://pixabay.com/photos/gloves-cold-warming-black-ski-run-81377/)

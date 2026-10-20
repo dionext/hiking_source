@@ -112,7 +112,7 @@ Top 10 Places To Visit In The Alps (выбор блогера)
 
 [https://www.dachstein.at/](https://www.dachstein.at/) Туристический сайт горного массива Дахштайн (западная сторона, озеро Гозау)
 
-[Lammerklamm](https://www.tennengau.com/de/dein-tennengau/die-orte/scheffau/lammerklamm?_wb=de/dein-tennengau/die-orte/scheffau/lammerklamm/&lang=EN) - это глубокая пропасть в Австрии, в 30 км к югу от Зальцбурга, и примерно в 10 км к западу от Голлинга. Ущелье проходит с севера на юг, и оно образовалось в результате вымывания известняка рекой Ламмер предгорья Тенненгебирга, самого северного диапазона Альп. В Австрии такие ущелья часто называют "Oefen", (духовка), то-есть место, где вода словно кипит на дне пропасти. Длина ущелья около 1,5 - 2 км в длину.
+[Lammerklamm](https://www.tennengau.com/de/dein-tennengau/die-orte/scheffau/lammerklamm?_wb=de/dein-tennengau/die-orte/scheffau/lammerklamm/&lang=EN) - это глубокая пропасть в Австрии, в 30 км к югу от Зальцбурга, и примерно в 10 км к западу от Голлинга. Ущелье проходит с севера на юг, и оно образовалось в результате вымывания известняка рекой Ламмер предгорья Тенненгебирга, самого северного диапазона Альп. В Австрии такие ущелья часто называют "Oefen", (духовка), то есть место, где вода словно кипит на дне пропасти. Длина ущелья около 1,5 - 2 км в длину.
 
 #### Шладминг. Рамзау. Горный массив Дахштайн (южная сторона)
 
@@ -181,11 +181,11 @@ Top 10 Places To Visit In The Alps (выбор блогера)
 
 [Туристический сайт городка Мальниц (Mallnitz)](http://www.mallnitz.at/en/)
 
-[http://www.ankogel-ski.at](http://www.ankogel-ski.at) Сайт канатной дороги горs Анкогель.
+[http://www.ankogel-ski.at](http://www.ankogel-ski.at) Сайт канатной дороги горы Анкогель.
 
 [Отчет "Хайкин в окрестностях Мальниц"](mallnitz_tracks)
 
-[http://www.nationalpark-sommercard.at](http://www.nationalpark-sommercard.at/en/) Национальны парк "Высокий Таурен"
+[http://www.nationalpark-sommercard.at](http://www.nationalpark-sommercard.at/en/) Национальный парк "Высокий Таурен"
 
 [http://alpe-adria-trail.com/en/](http://alpe-adria-trail.com/en/) Через Каринтию проходит Alpe-Adria-Trail - новейший, разнообразный, трансграничный 750 км путь, через три страны - Австрию, Италию и Словению
 
@@ -199,7 +199,7 @@ Go Alone -- Großglocknerpass. Видеодневник (видеоканал В
 
 #### Наудерс. Каунерталь
 
-["Миссия на Марс" в Тироле"](https://inosmi.ru/photo/20150810/229550255_229549453.html) Вдохновляющая заметка о том, как коло 100 ученых из 19 стран отправились на ледник Каунерталь в Австрийских Альпах, чтобы поработать в условиях, максимально приближенным к жизни на Красной планете.
+["Миссия на Марс" в Тироле"](https://inosmi.ru/photo/20150810/229550255_229549453.html) Вдохновляющая заметка о том, как около 100 ученых из 19 стран отправились на ледник Каунерталь в Австрийских Альпах, чтобы поработать в условиях, максимально приближенных к жизни на Красной планете.
 
 ### Франция
 
@@ -223,7 +223,7 @@ Go Alone -- Großglocknerpass. Видеодневник (видеоканал В
 
 [http://www.hoehenrausch.de/tourensuche/index.php?land=deutschland](http://www.hoehenrausch.de/tourensuche/index.php?land=deutschland) Сайт со списком маршрутов по Германии (на немецком)
 
-[http://www.nodima.ru/travel/bayern2014/partnachklamm](http://www.nodima.ru/travel/bayern2014/partnachklamm) Ущелье Партнахкламм (Partnachklamm), расположенное в окрестнстях небольшого курортного городка Гармиш-Партенкирхен.
+[http://www.nodima.ru/travel/bayern2014/partnachklamm](http://www.nodima.ru/travel/bayern2014/partnachklamm) Ущелье Партнахкламм (Partnachklamm), расположенное в окрестностях небольшого курортного городка Гармиш-Партенкирхен.
 
 [http://www.alpen-bars.com/tours/karvendel/](http://www.alpen-bars.com/tours/karvendel/) Туристический маршрут "Карвендель" (предложение турфирмы)
 
@@ -297,7 +297,7 @@ Go Alone -- Großglocknerpass. Видеодневник (видеоканал В
 
 [https://www.tourister.ru/tips/4997](https://www.tourister.ru/tips/4997) "Треккинг на Гарда для новичков"
 
-#### Остов Искья
+#### Остров Искья
 
 [Шпаргалка по Искье.](https://www.otzyv.ru/i/Шпаргалка_по_Искье.12009) информация об Искье (отели, транспорт, культурные мероприятия, термальные парки, время их работы, цены, ссылки на их сайты и тд)
 

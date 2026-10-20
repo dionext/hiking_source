@@ -1,5 +1,5 @@
 ---
-title: "The hiking"
+title: "Hiking"
 description: ""
 keywords: ""
 lang: "en"
@@ -9,72 +9,72 @@ aliases:
 ---
 
 
-# The hiking
+# Hiking
 
-## The basic idea of the hiking
+## The basic idea of hiking
 
-What involves people in the hiking? Why it so is popular in the world? The answer, apparently, lies on a surface. To be engaged in the hiking simply. Are not necessary neither special equipment, nor special skills. For employment by the hiking it is not obligatory to leave far from the house, possibilities for the hiking are practically in any district. That is at the hiking "a low threshold of occurrence", including from financial side. So all business in simplicity? And and is not present. Such answer would be too surface. After all we perfectly know mass of people which have enough ample opportunities for distant travel and various travel, but thus again and again preferring the hiking. Why so? Probably there are any else reasons involving people to this kind of activity.
+What attracts people to hiking? Why is it so popular around the world? The answer seems obvious: hiking is simple. You need neither special equipment nor special skills to get started. You do not have to travel far from home, because hiking opportunities exist almost everywhere. Hiking has a low barrier to entry, including financially. Is simplicity the whole explanation? Yes and no. That answer would be too superficial. We know many people who have plenty of opportunities for distant and varied travel, yet choose hiking again and again. Why? There must be other reasons that attract people to this activity.
 
-It is interesting to listen to tourists. For this purpose we introduce a selection from interview of the people who have been carried away by the hiking. You can read, as they for themselves explain the reasons of the hobby. But before to read, try to answer for itself This question. Then compare the answers with read more low. Probably, thus you Will feel relationship of your soul with souls their authors, as well as you being members of huge community of the hikers. If you do not find the own answer in a selection or you have an interesting story about your personal sensations, write to us, and we will try to add the given section.
+It is interesting to hear from hikers themselves. We present a selection of interviews with people who love hiking, in which they explain the reasons for their enthusiasm. Before reading, try answering the question yourself. Then compare your answers with those below. You may feel a connection with the authors, who, like you, belong to a huge community of hikers. If your answer is missing from the selection, or you have an interesting story about your own experiences, write to us and we will try to expand this section.
 
 [![](../images/pixabay/hike-663337_640.jpg)](../images/pixabay/hike-663337_1280.jpg) [Image by Bernd Hildebrandt from Pixabay](https://pixabay.com/photos/hike-lunar-landscape-tenerife-663337/)
 
-**So, what involves different people in the hiking?**
+**So, what attracts different people to hiking?**
 
-Campaigns give fine possibility to us to estimate width and a variety of the nature. It brings to us elation and gives feeling of gratitude for ours собственноe existence. It connects us with that nature from which we have occurred and from which we are created. The hiking is also an excellent way to plunge into the nature for one day and an easy miniadventure, which you can spend on days off to leave from city vanity and to freshen yourselves till the morning on Monday.
+Hiking gives us a wonderful opportunity to appreciate the vastness and variety of nature. It lifts our spirits and makes us grateful for our existence. It connects us with the nature from which we emerged and of which we are a part. Hiking is also an excellent way to spend a day in nature: a small weekend adventure that lets you escape the bustle of the city and feel refreshed by Monday morning.
 
 [![](../images/pixabay/hike-863454_640.jpg)](../images/pixabay/hike-863454_1280.jpg) [Image by Foundry Co from Pixabay](https://pixabay.com/photos/hike-hikers-scene-climb-boyfriend-863454/)
 
-In campaigns we are involved with absence of necessity always to fill silence with words. You do not need to speak anything when you lie under stars or look in deep mountain gorge. Thus you have a feeling of surprise, extensiveness and sense.
+One attraction of hiking is the freedom from having to fill every silence with words. You do not need to say anything when you lie under the stars or look into a deep mountain gorge. You simply feel a sense of wonder, vastness and meaning.
 
-The hiking gives the chance to you to see absolutely tremendous landscapes which you simply do not receive in a city and cannot see from the car. You are waited for by beauty of mountain landscapes, lakes, falls, risings and sunsets. If you are fond of a photo or a video shooting the hiking, especially, will be interesting to you.
+Hiking lets you see breathtaking landscapes that you cannot find in a city or see from a car: mountains, lakes, waterfalls, sunrises and sunsets. If you enjoy photography or filming, hiking will be especially interesting to you.
 
-Touch to a reality. In a campaign you will catch a nature smell, instead of other sweaty people in sports hall. The dirt road rough country is pleasant to people much more, than the asphalted sidewalk. For those who does not love false things, the elliptic training apparatus or a racetrack - always remain only weak imitation of that the nature gives to us free of charge.
+A connection with reality. On a hike you smell nature rather than other sweaty people in a gym. Many people find an uneven dirt trail more appealing than a paved sidewalk. For those who prefer the real thing, an elliptical trainer or treadmill will always be a poor imitation of what nature offers for free.
 
-Sense of achievement - the key moment in mountain hiking. Climbing up on an abrupt mountain you remember that, as the spirit of adventurism is not alien to you.
+A sense of achievement is a key part of mountain hiking. Climbing a steep mountain reminds you of your own spirit of adventure.
 
-Feeling of autonomy. You can take and bear with yourselves everything that it is necessary for you for life, movement, a food and a lodging for the night. Check up to the ability to cook food, to equip "house", to clean itself and the clothes, using [the map](maps), a compass or GPS to find the way and to be ready to feel comfortable in any conditions.
+A feeling of autonomy. You can carry everything you need for daily life, travel, meals and overnight stays. Test your ability to cook, set up your temporary home, keep yourself and your clothes clean, and use [a map](maps), a compass or GPS to find your way and feel comfortable in different conditions.
 
 [![](../images/pixabay/almsee-3507818_640.jpg)](../images/pixabay/almsee-3507818_1280.jpg) [Image by kordula vahle from Pixabay](https://pixabay.com/photos/almsee-schladming-lake-nature-3507818/)
 
-Self-sufficiency and personal confidence, feeling of the executed debt (mission). The more time you spend, being engaged in the hiking, the there will be your skills more sharply. You become the present adventurer. You will start to distinguish a weather environment, can read more consistently district and understand that is necessary for your body for optimum work. Your system of equipment becomes more effective, and you learn to take from tourist equipment of more advantage with smaller expenses. You can travel at any time year in any conditions (snow, a rain, mountains, desert and etc.) For longer periods of time and to take pleasure, being engaged in it. The constant increase in personal confidence will increase also your pleasure from campaigns. In a campaign you have everything that is necessary for a survival, and there is it in your backpack or in pockets (well and in your head, certainly). It that fills any person with enthusiasm and positive energy.
+Self-sufficiency, confidence and a sense of accomplishment. The more time you spend hiking, the sharper your skills become. You become a true adventurer. You learn to recognize weather conditions, read the terrain and understand what your body needs to perform well. Your equipment becomes more efficient, and you learn to get more out of it at less expense. You can travel in different seasons and conditions — snow, rain, mountains or desert — for longer periods and enjoy doing so. Growing confidence makes hiking more enjoyable. On a hike, everything you need to survive is in your backpack, your pockets or, of course, your head. This fills you with enthusiasm and positive energy.
 
-The hiking allows to feel being in Open Space in literal and metaphorical sense. Certainly, this sensation strongly depends on in what district you travel. But such areas of travel where you can see only a few person during your campaign are quite accessible to any person also. If you are in journey to the remote place or in inter-season period, there is a probability that you in general will see nobody. This physical open-space can have peace and freshening effect for the traveller. Absence of noise and "narrowness" also will allow your mind to wander in places in which it normally would not be, and to think differently, than normally. Not casually, creative people have made many of the most pleasant and productive mental finds during the pedestrian walks.
+Hiking lets you experience "open space" in both a literal and a metaphorical sense. The feeling depends on where you travel, but places where you see only a few people on a hike are accessible to everyone. In remote areas or outside the main season, you may see nobody at all. This physical space can have a peaceful, refreshing effect. The absence of noise and crowding also lets your mind wander and think differently. It is no coincidence that creative people have made many enjoyable and productive discoveries while walking.
 
 [![](../images/pixabay/caminito-del-rey-2227526_640.jpg)](../images/pixabay/caminito-del-rey-2227526_1280.jpg) [Image by guillermo gavilla from Pixabay](https://pixabay.com/photos/caminito-del-rey-malaga-adventure-2227526/)
 
-In the pedestrian campaign the person makes monotonous repeating movements, which consist only in serially to put one foot before another. Under certain conditions such monotony, in a combination to an environing landscape, promotes creation at the person inner positive creative and mental the space different from the daily. It is considered that runners, oarsmen, climbers and etc. test something similar when get to the "a current zone". And it gives the chance to the person to look from outside as though at itself every day, occupied with current affairs and cares. Especially it is actual, if you concern those people who live far from countryside.
+On a hike, you make repetitive movements, simply putting one foot in front of the other. Under certain conditions, this rhythm, combined with the surrounding landscape, helps create a positive, creative mental space that differs from everyday life. Runners, rowers and climbers are said to experience something similar when they enter a "flow state". This offers a chance to look at your everyday self, occupied with daily tasks and concerns, from the outside. This is particularly relevant for people who live far from the countryside.
 
-Campaigns are useful to health. Campaigns help to support physical activity, potentially you can grow thin, lower risk of heart diseases, lower an arterial hypertensia and slow down ageing process, and also raise mental health, reducing stress and anxiety. Campaigns can prevent depression, make you less intense and will result you in the form.
+Hiking is good for your health. It helps you stay physically active and may help you lose weight, reduce the risk of heart disease, lower blood pressure and slow aging. It can also improve mental health by reducing stress and anxiety. Hiking can help prevent depression, ease tension and improve your fitness.
 
 [![](../images/pixabay/freedom-2768515_640.jpg)](../images/pixabay/freedom-2768515_1280.jpg) [Image by rawpixel from Pixabay](https://pixabay.com/photos/freedom-travel-hiking-together-2768515/)
 
 [![](../images/pixabay/freedom-1681696_640.jpg)](../images/pixabay/freedom-1681696_1280.jpg) [Image by Nicolò Anastasio from Pixabay](https://pixabay.com/photos/freedom-fly-dream-empty-infinite-1681696/)
 
-Dialogue. Sometimes we would like to be alone on a track, but sometimes we like to meet on a track of different people and to get new friends. Such meetings are especially pleasant, when the basic part of a campaign you spend one or in small collective. And if you casually meet old acquaintances - that it will be a pleasant additional gift of destiny.
+Socializing. Sometimes we want to be alone on the trail; at other times we enjoy meeting people and making friends. These encounters are especially pleasant when you spend most of a hike alone or in a small group. Meeting old acquaintances by chance is an extra gift.
 
-The pedestrian walks are simple: "the occurrence threshold" for beginners is low. You can monitor intensity of the training and find rate which approaches you. In comparison with many other things активностями in the open air, for campaigns the simple subjects of equipment [which are a little easily acquired and practical skills](rules) are required only a few.
+Walking is simple: the barrier to entry for beginners is low. You can control the intensity of your exercise and find a pace that suits you. Compared with many other outdoor activities, hiking requires only a few simple items of equipment and [practical skills that are easy to learn](rules).
 
-Bonus: it can be inexpensive. The campaign costs not much: in comparison with any other sport your original expenses on articles of prime necessity are minimum. Everything that is necessary for you as a base set of equipment, these are good boots, some subjects of the appropriate clothes, a convenient backpack. Nevertheless, if you decide to realise the consumer requirements, at your service the extensive industry of the tourist goods and [equipment](equipment) from various world brands.
+Bonus: hiking can be inexpensive. Compared with many other sports, the initial cost of essential equipment is low. All you need as a basic kit is a pair of good boots, suitable clothing and a comfortable backpack. If you want to buy more, a large industry offers hiking goods and [equipment](equipment) from brands around the world.
 
-## Than still it is in addition possible to diversify a campaign
+## Other activities to enjoy on a hike
 
-* Sports orientation
+* Orienteering
 * Geocaching (game with application of the satellite navigating systems, consisting in a finding of the hiding places hidden by other participants of game)
 * Mountaineering, rock-climbing
 * Paragliding
 * Photography
-* Observation over animals
+* Wildlife watching
 * Fishing
-* Gathering of berries
+* Berry picking
 * Etc.
 
 [![](../images/pixabay/alps-2947165_640.jpg)](../images/pixabay/alps-2947165_1280.jpg) [Image by Florence D. from Pixabay](https://pixabay.com/photos/alps-flower-mountain-ski-light-2947165/)
 
-**The used sources:**
+**Sources used:**
 
-* What makes hiking so fun? (That does campaigns such interesting?) - a interview selection [https://www.quora.com/What-makes-hiking-so-fun](https://www.quora.com/What-makes-hiking-so-fun)
+* What makes hiking so fun? (What makes hiking so interesting?) - a selection of interviews [https://www.quora.com/What-makes-hiking-so-fun](https://www.quora.com/What-makes-hiking-so-fun)
 * "Short pitch on hiking" Video lecture. [https://www.youtube.com/watch?v=OyjV7x6IhDE](https://www.youtube.com/watch?v=OyjV7x6IhDE)
 * Feeling of "achievement" of top (sense of achievement) a photo selection on these keywords, the best photo - [http://michellegielan.com/psychology-today-how-to-go-from-i-think-i-can-to-i-know-i-can/achievement-goal-mountain/](http://michellegielan.com/psychology-today-how-to-go-from-i-think-i-can-to-i-know-i-can/achievement-goal-mountain/) (from a site Michel Gilan -- the American author of books on happiness psychology)
 * Than still it is possible to be engaged in campaigns to make their even more interesting. [https://www.thoughtco.com/fun-activities-for-hikers-1766200](https://www.thoughtco.com/fun-activities-for-hikers-1766200)
-* The miscellaneous found on open spaces of the Internet
+* Various materials found on the Internet

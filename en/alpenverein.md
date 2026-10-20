@@ -11,29 +11,29 @@ aliases:
 
 # The Alpine unions
 
-## The general information
+## General information
 
-The Alpine unions name the tourist incorporations (organization) existing in a number of the European countries. Membership in these organizations probably and for foreign participants. Membership in them paid also gives to participants a number of advantages:
+Alpine clubs are hiking and mountaineering organizations found in several European countries. Membership is also open to foreign participants. Membership requires a fee and offers several benefits:
 
-* Discounts for cost of residing in mountain huts;
-* The insurance which is capable to defray all expenses in case of emergency situation occurrence;
-* Free using topographic maps;
-* Discounts for hire hire of climbing equipment;
-* Access to training courses, the methodical literature, maps and so forth;
+* Discounts on accommodation in mountain huts;
+* Insurance that can cover expenses in an emergency;
+* Free use of topographic maps;
+* Discounts on climbing equipment rental;
+* Access to training courses, instructional literature, maps and so forth;
 
-Membership cost differs depending on the concrete union and concrete regional branch.
+Membership fees vary by club and regional branch.
 
-The expediency of the introduction (with payment of membership dues) in the Alpine union for foreign participants - a question disputable also dares everyone individually.
+Whether joining an Alpine club and paying membership dues is worthwhile for a foreign participant is a matter for each person to decide.
 
 [![](../images/pixabay/highway-2498002_640.jpg)](../images/pixabay/highway-2498002_1280.jpg) [Image by M. Maggs from Pixabay](https://pixabay.com/photos/highway-mountain-trees-forest-2498002/)
 
-However anyway acquaintance to activity of the Alpine unions is useful for hikers. Web sites of these organisation (the information on which is in an easy approach for all comers, and not just for members of the unions) are the present well of the actual information "first-hand". On them it is possible to find:
+In any case, learning about the activities of Alpine clubs is useful for hikers. Their websites, which are freely available to everyone, offer a wealth of current, first-hand information. You can find:
 
 * Tourist maps of regions;
-* The information on mountain huts;
-* The information by tourist safety rules;
-* The actual information on weather and permeability of routes;
-* Last tourist news, etc.
+* Information about mountain huts;
+* Information about hiking safety;
+* Current information about weather and route conditions;
+* The latest hiking news, etc.
 
 ## The German Alpine Union. Deutscher Alpenverein (DAV)
 
@@ -42,8 +42,8 @@ However anyway acquaintance to activity of the Alpine unions is useful for hiker
 > The German Alpine Club (German: Deutscher Alpenverein, DAV) is the world's largest climbing association, and the eighth-largest sports union in Germany. The Club is a member of the German Olympic Sports Confederation, and the responsible body for sport and competition climbing, hiking, mountaineering, hill walking, ice climbing, mountain expeditions, as well as ski mountaineering.
 > [https://en.wikipedia.org/wiki/German\_Alpine\_Club](https://en.wikipedia.org/wiki/German_Alpine_Club)
 
-The insurance (ASS) operates in territory of all Europe. At additional surcharge insurance action extends worldwide.  
-Membership dues differ from section to section, depending on their size and offers. For the adult membership costs from 45 to 90 euros for a calendar year.
+ASS insurance covers all of Europe. Worldwide coverage is available for an additional fee.  
+Membership dues differ from section to section, depending on their size and offers. Adult membership costs from 45 to 90 euros for a calendar year.
 
 Official site: [https://www.alpenverein.de/](https://www.alpenverein.de/)
 
@@ -59,9 +59,9 @@ Some interesting pages:
 
 Official site: [http://www.alpenverein.at](http://www.alpenverein.at/portal/index.php)
 
-On a site it is possible to look at news and events of regional sections. For example: Innsbruck [http://www.alpenverein.at/innsbruck/](http://www.alpenverein.at/innsbruck/) (On an union site the magazine "Alpine bulletin" is accessible)
+The website lists news and events from regional sections. For example: Innsbruck [http://www.alpenverein.at/innsbruck/](http://www.alpenverein.at/innsbruck/) (The club website offers the magazine "Alpine Bulletin")
 
-On a site of the Austrian Alpine union there is a list of mountain shelters and huts on regions: Austria, Germany, Italian Tirol [https://www.alpenverein.at/huetten/finder.php](https://www.alpenverein.at/huetten/finder.php)
+On the Austrian Alpine Club website there is a list of mountain shelters and huts on regions: Austria, Germany, Italian Tirol [https://www.alpenverein.at/huetten/finder.php](https://www.alpenverein.at/huetten/finder.php)
 
 Insurance AWS (the Austrian Alpine Union) [https://oeav.mitgliederversicherungsservice.at/informationen/die-alpenvereinsversicherung/](https://oeav.mitgliederversicherungsservice.at/informationen/die-alpenvereinsversicherung/)
 
@@ -88,4 +88,4 @@ Official site: [http://www.cai.it/](http://www.cai.it/)
 
 Regional sections (some):
 
-* The Italian Alpine union of southern Tirolja [https://www.alpenverein.it/](https://www.alpenverein.it/)
+* The Italian Alpine union of South Tyrol [https://www.alpenverein.it/](https://www.alpenverein.it/)

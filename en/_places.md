@@ -1,5 +1,5 @@
-# Directions and the countries
+# Destinations and countries
 
-Here you will find a selection of the help information on tourist regions. Generally speaking, it is possible to hiking in an every places on the earth. However there are the regions traditionally considering more interesting. First of all, because these regions actively promote hiking.
+Here you will find reference information about tourist regions. Generally speaking, you can enjoy hiking almost anywhere on Earth. However, some regions are traditionally considered more interesting. First of all, because these regions actively promote hiking.
 
-Originally we were limited to the information on alpine countries. Further we will try to expand our database and on other popular tourist directions.
+Initially, we limited our information to Alpine countries (countries whose territory includes part of the Alps). In the future, we will try to expand our database to include other popular tourist destinations.

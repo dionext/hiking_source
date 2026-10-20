@@ -29,23 +29,23 @@ More detailed terminology (trekking, backpacking, etc.) can have a little differ
 
 [![](../images/pixabay/cappadocia-1602916_640.jpg)](../images/pixabay/cappadocia-1602916_1280.jpg) [Image by Danny Schreiner from Pixabay](https://pixabay.com/photos/cappadocia-tuff-rock-hiking-1602916/)
 
-**Walking** - it is comprehensible to the description of all forms of walking, whether it be walk in park or the hiking in the Alpes
+**Walking** is a general term covering all forms of walking, from a stroll in a park to hiking in the Alps.
 
-**Rambling** (the old-fashioned term), hillwalking, fell walking -- basically is used in Great Britain
+**Rambling** (an old-fashioned term), hillwalking and fell walking are terms mainly used in Great Britain.
 
-**Bushwalking** (walking on a forest) -- the term used in Australia
+**Bushwalking** (walking in a forest) -- the term used in Australia
 
-**Tramping** - in New Zealand so name long, vigorous walk or a campaign
+**Tramping** is the New Zealand term for a long, vigorous walk or hike.
 
 ## German-speaking terminology
 
-**Wandern** - the pedestrian campaigns and walks, basically on special tracks with lodgings for the night in huts.
+**Wandern** means hiking and walking, mainly on designated trails, with overnight stays in huts.
 
-**Bergwandern** - mountain campaigns, with passage of passes and lodgings for the night to tents.
+**Bergwandern** means mountain hiking, crossing passes and staying overnight in tents.
 
 ## Russian-speaking terminology
 
-**Mountain tourism**- the kind of tourism consisting in movement of group of people by means of muscular force on a certain route, laid in mountain district in the conditions of high mountains. There are two disciplines on sports mountaineering: a route mountain and a distance mountain. By the given kinds of disciplines competitions as at level of tourist clubs, and regional federations on sports tourism are held.
+**Mountain tourism** is a form of tourism in which a group travels under its own power along a planned route through high mountain terrain. In Russian sporting tourism, there are two mountain disciplines: mountain routes and mountain courses. Competitions are held by tourist clubs and regional sports tourism federations.
 
 [![](../images/pixabay/hiker-1763517_640.jpg)](../images/pixabay/hiker-1763517_1280.jpg) [Image by skeeze from Pixabay](https://pixabay.com/photos/hiker-mountain-backpacking-hiking-1763517/)
 
@@ -57,18 +57,18 @@ More detailed terminology (trekking, backpacking, etc.) can have a little differ
 
 **Rock climbing** is a sport in which participants climb up, down or across natural rock formations or artificial rock walls. The goal is to reach the summit of a formation or the endpoint of a usually pre-defined route without falling. Professional rock climbing competitions have the objectives of either completing the route in the quickest possible time or attaining the farthest point on an increasingly difficult route.
 
-**Mountaineering**is the set of activities that involves ascending mountains. Mountaineering-related activities include traditional outdoor climbing, hiking, skiing, and traversing via ferratas. Indoor climbing, sport climbing and bouldering are also considered mountaineering by some
+**Mountaineering** is the set of activities that involves ascending mountains. Mountaineering-related activities include traditional outdoor climbing, hiking, skiing, and traversing via ferratas. Indoor climbing, sport climbing and bouldering are also considered mountaineering by some.
 
-**Lightweight (ultralight) backpacking** -- a direction in the tourism which distinctive feature is the maximum weight reduction of equipment without safety threat. [https://en.wikipedia.org/wiki/Ultralight\_backpacking](https://en.wikipedia.org/wiki/Ultralight_backpacking)
+**Lightweight (ultralight) backpacking** -- an approach to hiking that aims to minimize equipment weight without compromising safety. [https://en.wikipedia.org/wiki/Ultralight\_backpacking](https://en.wikipedia.org/wiki/Ultralight_backpacking)
 
 **Scrambling** (also known as alpine scrambling) is "a walk up steep terrain involving the use of one's hands". It is an ambiguous term that lies somewhere between hiking, hillwalking, mountaineering, and rock climbing. Canyoning often involves scrambling.
 
-**Nordic walking**is a total body version of walking that can be enjoyed both by non-athletes as a health-promoting physical activity, and by athletes as a sport. The activity is performed with specially designed walking poles similar to ski poles.
+**Nordic walking** is a total body version of walking that can be enjoyed both by non-athletes as a health-promoting physical activity, and by athletes as a sport. The activity is performed with specially designed walking poles similar to ski poles.
 
 **Canyoning** (**canyoneering** in the United States, kloofing in South Africa) is travelling in canyons using a variety of techniques that may include other outdoor activities such as walking, scrambling, climbing, jumping, abseiling (rappelling), and swimming. Although non-technical descents such as hiking down a canyon (canyon hiking) are often referred to as canyoneering, the terms canyoning and canyoneering are more often associated with technical descents - those that require abseils (rappels) and ropework, technical climbing or down-climbing, technical jumps, and/or technical swims. Canyoning is frequently done in remote and rugged settings and often requires navigational, route-finding, and other wilderness travel skills. [https://en.wikipedia.org/wiki/Canyoning](https://en.wikipedia.org/wiki/Canyoning)
 
 **Hitchhiking** (also known as thumbing or hitching) is a means of transportation that is gained by asking individuals, usually strangers, for a ride in their automobile or other vehicle. A ride is usually, but not always, free. Itinerants have also used hitchhiking as a primary mode of travel for the better part of the last century, and continue to do so today.
 
-**The used materials:**
+**Materials used:**
 
 * Wikipedia [https://en.wikipedia.org/wiki/Hiking](https://en.wikipedia.org/wiki/Hiking) [https://en.wikipedia.org/wiki/Scrambling](https://en.wikipedia.org/wiki/Scrambling) and other articles

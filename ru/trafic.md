@@ -117,7 +117,7 @@ EuroNight (сокращенно EN) - магистральные национа�
 
 ![](../images/pixabay/highway-3775809_640.jpg)
 
-Прокат автомобилей (сайты агрегаторы)
+Прокат автомобилей (сайты-агрегаторы)
 
 [https://www.rentalcars.com/](https://www.rentalcars.com/)
 
