@@ -50,6 +50,11 @@ See also "Ten Essentials" in ["Rule"](rules) section
 
 Because equipment manufacturers have an interest in advertising their products, you can find many professional reviews, comparisons and test reports online (see the links in each section and at the end of this page). Without claiming to cover the subject fully, we offer a few basic tips on choosing hiking equipment.
 
+Fast hiking: speed hiking and fastpacking. A video lecture by Sergey Savelyev of Sport-Marafon (Russian). What is fast hiking, how does it work, and what equipment and clothing does it require? What should you eat, and how do you avoid running out of supplies? How can you plan a safe route and account for factors that may make the journey harder or easier?
+
+
+![](../images/schastie_ne_za_gorami.png)
+
 ## Hiking backpack
 
 The main rule when choosing a backpack for light hiking is simple: it should hold everything you plan to take. Gather your rain protection, warm clothing, food and at least a litre of water in advance to estimate the volume you need. Some people even recommend taking the whole kit to the outdoor shop.
@@ -77,6 +82,23 @@ Finally, consider pockets, compartments, ease of access and attachments for item
 **References:**
 
 The Ultimate Guide to Choosing the Best Travel Backpack 2018 [https://www.wheressharon.com/x-featured-discussions/best-travel-backpack/](https://www.wheressharon.com/x-featured-discussions/best-travel-backpack/)
+
+Choosing a hiking backpack: a review by equipment manufacturer Tatonka (Russian). [http://www.tatonka.ru/articles/vybor-turisticheskogo-ryukzaka.html](http://www.tatonka.ru/articles/vybor-turisticheskogo-ryukzaka.html)
+
+Choosing a hiking backpack: advice from Sport-Marafon experts (Russian). [https://sport-marafon.ru/article/kak-vybrat/kak-vybrat-turisticheskiy-ryukzak/](https://sport-marafon.ru/article/kak-vybrat/kak-vybrat-turisticheskiy-ryukzak/) [https://www.youtube.com/watch?v=YRUeniwOrA4](https://www.youtube.com/watch?v=YRUeniwOrA4)
+
+Choosing a good hiking backpack (Russian). [https://pohod-v-gory.com/как-выбрать-туристический-рюкзак/](https://pohod-v-gory.com/как-выбрать-туристический-рюкзак/)
+
+### Packing clothes compactly in a backpack
+
+How can you pack clothes so they take up less space in a backpack or travel bag? A Sport-Marafon expert demonstrates three methods that make your kit more compact and help you find items faster.
+
+Learning to pack properly lets you carry more warm clothing, making your trip more comfortable and safer.
+
+## Trekking poles
+
+How to choose trekking poles (Russian): [https://www.youtube.com/watch?v=w0laYus1p3o](https://www.youtube.com/watch?v=w0laYus1p3o)
+
 
 ## Hiking footwear
 
@@ -115,6 +137,21 @@ One option is membrane technology, such as GORE-TEX. It helps keep feet dry and 
 
 How to Choose Hiking Boots [https://www.rei.com/learn/expert-advice/hiking-boots.html](https://www.rei.com/learn/expert-advice/hiking-boots.html)
 
+Choosing trekking boots: Sport-Marafon experts' review (Russian). [https://sport-marafon.ru/article/kak-vybrat/kak-vybrat-trekkingovye-botinki/](https://sport-marafon.ru/article/kak-vybrat/kak-vybrat-trekkingovye-botinki/)
+
+[https://www.youtube.com/watch?v=nWuu3B\_5Fs8](https://www.youtube.com/watch?v=nWuu3B_5Fs8)
+
+Choosing trekking boots: Alpindustria experts' review (Russian). [https://alpindustria.ru/school/articles/howto-trekking-shoes.html](https://alpindustria.ru/school/articles/howto-trekking-shoes.html)
+
+My footwear for hiking and travel: Dmitry Kovinov's review (Russian). [http://www.kovinov.com/snarjazhenie/moe/obuv/](http://www.kovinov.com/snarjazhenie/moe/obuv/)
+
+How to dry boots (Russian): [http://palatking.ru/Boots/Dry.html](http://palatking.ru/Boots/Dry.html)
+
+How to tie shoelaces so they stay tied (Russian): [https://www.youtube.com/watch?v=w6PH5i3URFA](https://www.youtube.com/watch?v=w6PH5i3URFA)
+
+Trainers with or without a membrane: myths and reality (Russian). [https://www.youtube.com/watch?v=RWuijDnsybs](https://www.youtube.com/watch?v=RWuijDnsybs)
+
+
 ## Hiking clothing
 
 Clothing is usually considered in layers:
@@ -124,6 +161,29 @@ Clothing is usually considered in layers:
 * Outer layer: protection from rain and wind.
 
 The three layers need not be separate garments, because their functions can be combined. For example, a jacket can provide both weather protection and insulation. Some relatively expensive two-layer thermal garments combine moisture wicking and warmth.
+
+**References:**
+
+The layering system: what it is and how it works (Russian). [https://www.youtube.com/watch?v=C4yYR44wjzI](https://www.youtube.com/watch?v=C4yYR44wjzI)
+
+Down sweaters: features and how to choose one (Russian). [https://www.youtube.com/watch?v=84RSIQZVZxs](https://www.youtube.com/watch?v=84RSIQZVZxs)
+
+Insulated down shorts: what they are and why they are useful (Russian). [https://www.youtube.com/watch?v=9uuGhTL1Uhk](https://www.youtube.com/watch?v=9uuGhTL1Uhk)
+
+How to choose thermal underwear (Russian): [https://www.youtube.com/watch?v=f9RyDetowjs](https://www.youtube.com/watch?v=f9RyDetowjs)
+
+Staying dry on a hike: a Sport-Marafon audio podcast with Maria Veremyeva and Andrey Shleenkov (Russian). [https://www.youtube.com/watch?v=gaUC9Wg8W2Q](https://www.youtube.com/watch?v=gaUC9Wg8W2Q)
+
+## Tents, sleeping bags, tarps and other equipment for multi-day hikes
+
+A Sport-Marafon video lecture about lightweight overnight camping (Russian).
+
+Sport-Marafon expert Sergey Savelyev explains fast-and-light overnight camping. A keen ultralight hiker, he discusses alternatives to tents, including hammocks, tarps and emergency blankets, aiming for the lowest possible pack weight while still getting proper rest.
+
+### Cooking on a hike
+
+What to cook on during a hike. Speaker: Kirill Guryev, Sport-Marafon consultant (Russian). [https://www.youtube.com/watch?v=Vwa9\_dv\_758](https://www.youtube.com/watch?v=Vwa9_dv_758)
+
 
 ## Good advice
 
@@ -137,3 +197,21 @@ The three layers need not be separate garments, because their functions can be c
 Hiking equipment [https://en.wikipedia.org/wiki/Hiking\_equipment](https://en.wikipedia.org/wiki/Hiking_equipment)
 
 [![](../images/pixabay/camping-2581242_640.jpg)](../images/pixabay/camping-2581242_1280.jpg) [Image by anurag kaushik from Pixabay](https://pixabay.com/photos/camping-travel-sunrise-adventure-2581242/)
+
+Packing clothes compactly in a backpack or travel bag (Russian): [https://www.youtube.com/watch?v=lwpNuWYS4\_E](https://www.youtube.com/watch?v=lwpNuWYS4_E)
+
+## Further references
+
+Hiking equipment articles by experienced hiking popularizer Dmitry Kovinov, whose work is informed by his professional experience in outdoor retail: [http://www.kovinov.com/snarjazhenie/](http://www.kovinov.com/snarjazhenie/). In particular, see his advice and personal choices for tent-based hiking in the Alps: [http://www.kovinov.com/europe/alpy/snarjazhenie/](http://www.kovinov.com/europe/alpy/snarjazhenie/), and his guide to modern hiking equipment: [http://www.kovinov.com/snarjazhenie/guide/](http://www.kovinov.com/snarjazhenie/guide/).
+
+Equipment for hiking, trekking and backpacking (Russian): [https://turclub-pik.ru/blog/vse-dlya-hajkinga-trekinga-i-bekpekinga/](https://turclub-pik.ru/blog/vse-dlya-hajkinga-trekinga-i-bekpekinga/)
+
+The ultimate guide to hiking equipment (Russian): [https://trekkingmania.ru/ultimativnyij\_gid\_po\_turisticheskomu\_snaryazheniyu/](https://trekkingmania.ru/ultimativnyij_gid_po_turisticheskomu_snaryazheniyu/)
+
+What to Pack for a Short Hike [https://www.thoughtco.com/packing-for-short-hike-4165282](https://www.thoughtco.com/packing-for-short-hike-4165282)
+
+Personal hiking first-aid kit (Russian): [https://turclub-pik.ru/blog/lichnaya-pohodnaya-aptechka/](https://turclub-pik.ru/blog/lichnaya-pohodnaya-aptechka/)
+
+Group first-aid kit (Russian): [https://turclub-pik.ru/blog/gruppovaya-aptechka-pik/](https://turclub-pik.ru/blog/gruppovaya-aptechka-pik/)
+
+Packing list: an interactive website with user-created checklists for what to take, what to do before departure and how not to forget anything (Russian). [https://spisokvdorogu.ru/](https://spisokvdorogu.ru/)

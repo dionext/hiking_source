@@ -1,5 +1,5 @@
 ---
-title: "The related (or similar)"
+title: "Related interests and lifestyles"
 description: ""
 keywords: ""
 lang: "en"
@@ -9,60 +9,80 @@ aliases:
 ---
 
 
-# The related (or similar)
+# Related interests and lifestyles
 
-Among [the things that attract people to hiking](hiking), autonomy, self-sufficiency and a sense of "open space" matter greatly, both literally and metaphorically. For most hikers, however, this is a temporary state: they change their usual way of life for a hike and then return home. This makes it especially interesting to learn about people for whom such a state has become a permanent lifestyle. We are not discussing professionals who earn a living from tourism while helping others. Below is a brief overview of other outlooks and links for further reading.
+Among [the things that attract people to hiking](hiking), autonomy, self-sufficiency and a sense of open space matter greatly, literally and metaphorically. For most hikers this is temporary: they change their lifestyle for a trip and then return home. This makes the lives of people for whom such freedom has become permanent especially interesting. We are not discussing professionals who earn a living in tourism while benefiting others. Below is an overview of other outlooks and resources for further reading.
 
 [![](../images/pixabay/dream-catcher-3299832_640.jpg)](../images/pixabay/dream-catcher-3299832_1280.jpg) [Image by Aline Berry from Pixabay](https://pixabay.com/photos/dream-catcher-feather-sunset-forest-3299832/)
 
-## Naturism, nudists, "savages"
+## Naturists, nudists and "savages"
 
-Naturism is a modern outlook whose central idea is to bring people closer to nature for the health of body and spirit.
+Naturism is an outlook that seeks closeness to nature for the health of body and spirit.
 
-> Naturism, or nudism, is a cultural and political movement practicing, advocating, and defending personal and social nudity, most but not all of which takes place on private property. The term may also refer to a lifestyle based on personal, family, or social nudity.\[1\] Naturism may take a number of forms. It may be practiced individually, within a family, socially, or in public. Additionally, there is also militant naturism, including campaigning, and extreme naturism is sometimes considered a separate category.
-> [https://en.wikipedia.org/wiki/Naturism](https://en.wikipedia.org/wiki/Naturism)  
-> "Savages" formally refers to people living in a primitive state of civilization. Some writers, however, have used the word metaphorically to describe an outlook close to naturism.
+> Naturism, from Latin natura, meaning nature, is a way of life in harmony with nature, characterized by communal nudity intended to encourage respect for oneself, other people and the environment. It is often equated with nudism, from Latin nudus, naked, but participants distinguish a broader philosophy of harmony with nature from the simple comfort of being without clothes. The term appears in organizations such as the International Naturist Federation (INF), described by the source as operating under UNESCO's auspices.  
+> Nudity is not usually an end in itself. Naturism also involves caring for health, rejecting harmful habits, respecting others and their right to a healthy lifestyle, and protecting the environment.  
+> Being unclothed may help people work through fear and express trust, creating openness and goodwill. It may also increase awareness of the surroundings: walking barefoot on cigarette ends or broken bottles is unpleasant, making pollution more noticeable.
+> [https://ru.wikipedia.org/wiki/Натуризм](https://ru.wikipedia.org/wiki/Натуризм)
+> "Savages" formally describes people living in a primitive state of civilization. Some writers, including those associated with [http://www.dikari.info/](http://www.dikari.info/), use the term metaphorically for an outlook related to naturism.
 
-## Hippie
+## Hippies
 
-> A hippie is a member of the counterculture of the 1960s, originally a youth movement that began in the United States during the mid-1960s and spread to other countries around the world. The word hippie came from hipster and was used to describe beatniks who moved into New York City's Greenwich Village and San Francisco's Haight-Ashbury district. The term hippie first found popularity in San Francisco with Herb Caen, who was a journalist for the San Francisco Chronicle.
-> [https://en.wikipedia.org/wiki/Hippie](https://en.wikipedia.org/wiki/Hippie)
+> The hippie philosophy and subculture originated in the United States in the 1960s and flourished in the late 1960s and early 1970s. Early hippies challenged the puritan morality of some Protestant churches and advocated returning to natural simplicity through love and pacifism. A famous slogan was "Make love, not war!"
+> [https://ru.wikipedia.org/wiki/Хиппи](https://ru.wikipedia.org/wiki/Хиппи)
 
-Hippies are generally thought to believe in the following ideas:
+Hippies are generally considered to believe that:
 
-* The person should be free;
-* Freedom can be achieved only by changing one's inner life;
-* The actions of an inwardly free person are guided by the desire to preserve freedom as a precious possession;
-* Beauty and freedom are inseparable, and realizing both is a spiritual task;
-* All who share these beliefs form a spiritual community;
-* A spiritual community is the ideal form of communal life;
+* people should be free;
+* freedom requires a change in one's inner life;
+* an inwardly free person's actions are guided by protecting freedom as a precious possession;
+* beauty and freedom are inseparable, and realizing them is a spiritual task;
+* those who share these beliefs form a spiritual community;
+* a spiritual community is the ideal form of communal life.
 
-> Hippies formed a subculture that arose in the United States in the early 1960s, spread rapidly around the world and largely faded by the mid-1970s. The original movement consisted mostly of white teenagers and young adults aged fifteen to twenty-five, who inherited a spirit of cultural rebellion from bohemian circles and the beatniks. Hippies challenged established ideas and middle-class values, opposed nuclear weapons and the Vietnam War, and popularized aspects of religions other than Judaism and Christianity. They helped advance the sexual revolution and encouraged psychedelic drug use to expand consciousness. They also created communes in which their values were cultivated.
+> Hippies arose in the early 1960s in the USA, spread worldwide and largely faded by the mid-1970s. The movement originally consisted mostly of white teenagers and young adults aged fifteen to twenty-five who inherited cultural rebellion from bohemian circles and the beatniks. They challenged established ideas and middle-class values, opposed nuclear weapons and the Vietnam War, popularized less familiar religions, helped advance the sexual revolution, encouraged psychedelic drug use to expand consciousness, and formed communes where their values were cultivated.
 > [http://www.sub-culture.ru/hippy.php](http://www.sub-culture.ru/hippy.php)
 
 ## Communards
 
 In the context of this site, a communard is a member of a modern communal settlement.
 
-> A commune (the French word appearing in the 12th century from Medieval Latin communia, meaning a large gathering of people sharing a common life; from Latin communis, things held in common) is an intentional community of people living together, sharing common interests, often having common values and beliefs, as well as shared property, possessions, resources, and, in some communes, work, income or assets. In addition to the communal economy, consensus decision-making, non-hierarchical structures and ecological living have become important core principles for many communes. There are many contemporary intentional communities all over the world, a list of which can be found at the Fellowship for Intentional Community (FIC)
-> [https://en.wikipedia.org/wiki/Commune](https://en.wikipedia.org/wiki/Commune) **Interesting references:**
+> A commune, from the French word for community, is an intentional community whose residents share interests, property and resources, and, in some cases, work and income. Shared values and beliefs also matter. Many contemporary communes emphasize consensus decisions, non-hierarchical organization and ecological living. Andrew Jacobs wrote in the New York Times that, contrary to common stereotypes, most communes of the 1990s were not havens of free love for flower children, but orderly, financially viable cooperatives with pragmatic rather than psychedelic rules.  
+> Intentional communities exist worldwide; some are listed by the [Fellowship for Intentional Community](https://ru.wikipedia.org/wiki/Движение_за_идейные_общины "Движение за идейные общины") (FIC). Its directory uses a simplified definition of a commune as a community in which income and resources, including property, livelihoods and means of production, are shared wholly or almost wholly.
+> [https://ru.wikipedia.org/wiki/Коммуна\_(социум)](<https://ru.wikipedia.org/wiki/Коммуна_(социум)>) **Further reading:**
 
-* To live without the state: Five communes where build the new world [https://apparat.cc/world/5-communes-new-world/](https://apparat.cc/world/5-communes-new-world/)
+* Living without the state: five communes building a new world
+* [https://apparat.cc/world/5-communes-new-world/](https://apparat.cc/world/5-communes-new-world/)
+* Ecovillages in Russia: [https://lenaswan.livejournal.com/1111437.html](https://lenaswan.livejournal.com/1111437.html)
 
-## Downshifting
+## Downshifters
 
-> The term downshifting in the English language refers to the act of reducing the gear ratio while driving a vehicle with manual transmission. This title or term has now been re-purposed and applied to describe a social behavior or trend in which individuals live simpler lives to escape from what critics call the rat race. The long-term effects of downshifting can include an escape from what has been described as economic materialism, as well as a reduction in the "stress and psychological expense that may accompany economic materialism". This new social trend emphasizes finding an improved balance between leisure and work, while also focusing life goals on personal fulfillment, as well as building personal relationships instead of the all-consuming pursuit of economic success. Down-shifting, as a concept, shares many characteristics with simple living. However, it is distinguished as an alternative form by its focus on moderate change and concentration on an individual comfort level and a gradual approach to living.\[1\] In the 1990s, this new form of simple living began appearing in the mainstream media, and has continually grown in popularity among populations living in industrial societies, especially the United States, the United Kingdom, New Zealand, and Australia, as well as Russia.
-> [https://en.wikipedia.org/wiki/Downshifting\_(lifestyle)](<https://en.wikipedia.org/wiki/Downshifting_(lifestyle)>)
+> Downshifting originally means changing to a lower gear or slowing a process. As a lifestyle, it means living for oneself rather than pursuing other people's goals, and is related to simple living. Downshifters step away from conventional ambitions such as constantly increasing wealth or advancing a career. The source describes the movement as strongest in the USA and Australia, citing surveys in which over 30% of Americans and 26% of Australians had taken a step in this direction. Australian downshifters formed associations and set a goal of reaching half the population by 2015. The source estimates European participation at half the Australian level and Russian participation at 4–5%, with recent growth. It suggests that higher living standards encourage people to reconsider careers, earnings and income.
+> [https://ru.wikipedia.org/wiki/Дауншифтинг](https://ru.wikipedia.org/wiki/Дауншифтинг)
 
-**Interesting references:**
+**Further reading:**
 
-* Hampson, Jo \& Perkins, Georgina. [http://www.steppingoff.co.uk/index.html](http://www.steppingoff.co.uk/index.html) A good site for testimonials about and advice for downshifting.
+A downshifter in crisis (Russian): [https://pora-valit.livejournal.com/3084160.html](https://pora-valit.livejournal.com/3084160.html)
 
-## Hermit
+## Hermits
 
-> A hermit (adjectival form: eremitic or hermitic) is a person who lives in seclusion from society, usually for religious reasons.\[1\]\[2\]\[3\] Hermits are a part of several sections of Christianity, and the concept is found in other religions as well.
-> [https://en.wikipedia.org/wiki/Hermit](https://en.wikipedia.org/wiki/Hermit) **Interesting references:**
+> Hermitage, or anchoritism, is an ascetic withdrawal from worldly life, limiting outside contact and living in secluded places according to one's beliefs. It is often religious, appears in several branches of Christianity and is also found in other religions.
+> [https://ru.wikipedia.org/wiki/Отшельничество](https://ru.wikipedia.org/wiki/Отшельничество) **Further reading:**
 
-* [The tradition of the Lersi Hermits](http://magiedubouddha.com/p_thai-lersi1-intl.php)
-* [British hermits: the growing lure of the solitary life](https://www.independent.co.uk/news/uk/this-britain/british-hermits-the-growing-lure-of-the-solitary-life-859656.html)
-* [A forum for hermits \& solitaries](http://www.hermitary.com/slate/)
+* Hermits' survival forum (Russian): [http://otshelniki.com/](http://otshelniki.com/)
+* Hermitage and survival (Russian): [http://otchelniki.ru/](http://otchelniki.ru/)
+
+## Additional information and English-language sources
+
+Naturism is also described as a cultural and political movement advocating personal and social nudity, most often on private property. It may be practiced individually, within families, socially or publicly; activist and extreme forms also exist. [Naturism](https://en.wikipedia.org/wiki/Naturism).
+
+The word hippie came from hipster and described beatniks moving to New York's Greenwich Village and San Francisco's Haight-Ashbury district. San Francisco Chronicle journalist Herb Caen helped popularize the term. [Hippie](https://en.wikipedia.org/wiki/Hippie).
+
+The word commune comes through Medieval Latin communia from communis, meaning shared or common. [Commune](https://en.wikipedia.org/wiki/Commune).
+
+Downshifting also means moving away from materialism and its stress towards work–life balance, personal fulfillment and relationships rather than unlimited economic ambition. It differs from other forms of simple living through gradual, moderate changes suited to individual comfort. Since the 1990s it has appeared in mainstream media and grown in the USA, UK, New Zealand, Australia and Russia. [Downshifting](<https://en.wikipedia.org/wiki/Downshifting_(lifestyle)>).
+
+- Jo Hampson and Georgina Perkins: [downshifting experiences and advice](http://www.steppingoff.co.uk/index.html).
+- [Hermit](https://en.wikipedia.org/wiki/Hermit): hermitage, including religious traditions.
+- [The tradition of the Lersi Hermits](http://magiedubouddha.com/p_thai-lersi1-intl.php).
+- [British hermits: the growing lure of the solitary life](https://www.independent.co.uk/news/uk/this-britain/british-hermits-the-growing-lure-of-the-solitary-life-859656.html).
+- [A forum for hermits and solitaries](http://www.hermitary.com/slate/).

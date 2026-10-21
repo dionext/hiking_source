@@ -203,3 +203,11 @@ What to Pack for a Short Hike [https://www.thoughtco.com/packing-for-short-hike-
 Список в дорогу. Интерактивный сайт с различными пользовательскими списками-шаблонами. (Что взять с собой в поездку? Какие дела нужно обязательно сделать? Как ничего не забыть? Сервис Список в дорогу вам поможет!) [https://spisokvdorogu.ru/](https://spisokvdorogu.ru/)
 
 [![](../images/pixabay/camping-2581242_640.jpg)](../images/pixabay/camping-2581242_1280.jpg) [Image by anurag kaushik from Pixabay](https://pixabay.com/photos/camping-travel-sunrise-adventure-2581242/)
+
+## Дополнительные англоязычные материалы
+
+Выбор туристического рюкзака: The Ultimate Guide to Choosing the Best Travel Backpack 2018. [https://www.wheressharon.com/x-featured-discussions/best-travel-backpack/](https://www.wheressharon.com/x-featured-discussions/best-travel-backpack/)
+
+Как выбрать туристические ботинки: руководство REI. [https://www.rei.com/learn/expert-advice/hiking-boots.html](https://www.rei.com/learn/expert-advice/hiking-boots.html)
+
+Туристическое снаряжение: [Hiking equipment](https://en.wikipedia.org/wiki/Hiking_equipment).

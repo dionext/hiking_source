@@ -21,6 +21,13 @@ Below is an overview of popular mapping resources and tools. We focus on digital
 
 Within each section, tools are ordered by their popularity and usefulness for hikers, in our view.
 
+## Our video channel
+
+Our [video channel](https://www.youtube.com/channel/UCsYA-4VXxbKB0lWMxkLoxFQ) includes lectures about mapping.
+
+Planning walking routes with electronic maps: Google Maps, Google Earth, OpenStreetMap, Wikimapia, Wikiloc, Kompass Karten, Bergfex and others (Russian).
+
+
 ## Paper maps
 
 Paper topographic maps can be purchased in bookshops, kiosks at stations and airports, local tourist offices and hotels.
@@ -67,6 +74,11 @@ Wikimapia is a free international website and online geographical encyclopedia t
 
 [![](../images/pixabay/creux-du-van-2839090_640.jpg)](../images/pixabay/creux-du-van-2839090_1280.jpg)
 
+### Yandex.Maps
+
+Yandex.Maps is Yandex's mapping and geographic search service, launched in 2004. It offers map search, traffic information, route planning and street panoramas. [https://yandex.ru/maps](https://yandex.ru/maps)
+
+
 ### Wandermap
 
 The interactive map with the user foot routes (worldwide, but the greatest quantity in Europe) [http://www.wandermap.net/](http://www.wandermap.net/)
@@ -83,6 +95,11 @@ For example, page with an interactive Austria map [https://www.bergfex.com/somme
 
 [![](../images/pixabay/croda-da-lago-3514017_640.jpg)](../images/pixabay/croda-da-lago-3514017_1280.jpg) [Image by kordula vahle from Pixabay](https://pixabay.com/photos/croda-da-lago-tofane-dolomites-3514017/)
 
+### nakarte.me
+
+[https://nakarte.me/](https://nakarte.me/) (formerly nakarte.tk) aggregates mapping services. Created by hikers for hikers, it helps plan walks and mountain traverses. Project documentation and instructions: [https://docs.nakarte.me/](https://docs.nakarte.me/).
+
+
 ### Other online services
 
 [https://www.schweizmobil.ch/en/summer.html](https://www.schweizmobil.ch/en/summer.html) Maps of Switzerland
@@ -98,6 +115,13 @@ The interesting map -- population density in the world. [https://pudding.cool/20
 [https://www.relive.cc/](https://www.relive.cc/)allows to connect the account Strava (Relive works with Strava, Endomondo, Garmin Connect, Apple Health (Watch), MapMyRun, MapMyWalk, MapMyRide, MapMyHike and Polar Flow) and to create 3D video from a track of your employment. Relive transforms your adventure into personal video which should share. Fly by over the route, look, where you were, and look at your high lights!
 
 [http://www.etomesto.ru/](http://www.etomesto.ru/) On EtoMesto.ru you can look and compare old maps online and impose them on the modern. On a site ancient Moscow maps and Moscow Region, St.-Petersburg and Leningrad region, and also other regions of Russia are introduced. The territory of Ukraine, Belarus, Moldova, Kazakhstan, the countries of Baltic and caucasus is a little captured also.
+
+### Reviews and selections
+
+Interesting mapping services (Russian): [https://trekkingmania.ru/samyie\_interesnyie\_kartograficheskie\_servisyi/](https://trekkingmania.ru/samyie_interesnyie_kartograficheskie_servisyi/)
+
+Alpine maps: an article from the Nizhny Novgorod hiking club (Russian). [http://www.trekkingclub.ru/alpin/pohodmap.htm](http://www.trekkingclub.ru/alpin/pohodmap.htm)
+
 
 ## GPS tracks
 
@@ -117,6 +141,8 @@ Popular formats are: GPX (GPS eXchange Format), TCX, KML and KMZ (Google Earth),
 
 ### How to write down GPS tracks
 
+Recording and using GPS tracks: [https://ichip.ru/zapisyvaem-i-ispolzuem-gps-trek.html](https://ichip.ru/zapisyvaem-i-ispolzuem-gps-trek.html).
+
 The instruction on record of tracks from openstreetmap for the subsequent loading in this project [https://wiki.openstreetmap.org/wiki/Recording\_GPS\_tracks](https://wiki.openstreetmap.org/wiki/Recording_GPS_tracks)
 
 ### Where to search, look and download. Storehouses of GPS tracks
@@ -133,6 +159,8 @@ On 03.2019 on Wikiloc 4 436 675 participants were registered, 11 234 084 tracks 
 The key idea Wikiloc formulated on their site: "We believe in a future where humanity spends more time enjoying and preserving the outdoors. Our goal is to help people have better experiences in community before, during and after outdoor activities and to inspire and support the preservation of nature.".  
 You can search by map or region name. To search for a track in Europe, use English place names. For track downloading registration is required. Formats: GPX, TCX, a KML-file (a format for Google Earth), Garmin. You can obtain code to embed track information on a social network or website.
 
+OpenStreetMap recording instructions (Russian): [https://wiki.openstreetmap.org/wiki/RU:Запись_треков_GPS](https://wiki.openstreetmap.org/wiki/RU:Запись_треков_GPS)
+
 #### Other online track repositories
 
 [https://www.openstreetmap.org/traces](https://www.openstreetmap.org/traces) Official storehouse of tracks OpenStreetMap.
@@ -143,6 +171,12 @@ Popular GPS-tracks. Viewing of last loaded GPS-tracks. If you at track record we
 
 [https://www.alltrails.com](https://www.alltrails.com) (Everytrail.com)  
 From web site: "The beauty of nature doesn't need to be hard to find. Our goal is simple - build the largest collection of hand-curated trail guides, so you can explore the outdoors with confidence. Anytime. Anywhere". Registration is necessary For track viewing.
+
+[https://www.gpslib.ru/](https://www.gpslib.ru/) GPSLib is a public GPS-track library with organization, search and analysis tools. This Russian-language site supports popular GPS/GLONASS formats, including OziExplorer, GisRussa, Navitel, NMEA, Garmin and iGo, and uses Google Maps API V3. It has relatively few walking tracks in Europe, for example around fifty in Austria. Downloads do not require registration.
+
+
+[https://gpsloglabs.com/](https://gpsloglabs.com/) GPSLog Labs is a Russian-language site for analyzing and comparing GPS-recorded movements, generating charts and reports, and viewing them on a map. It can be used to monitor running, hiking, skiing, cycling and horse riding, or as a daily activity diary. Example user page: [https://gpsloglabs.com/share/0b537c0ebd32b21cdad72138aa4020fa9ef26dc9/](https://gpsloglabs.com/share/0b537c0ebd32b21cdad72138aa4020fa9ef26dc9/). There are almost no European tracks.
+
 
 ## Computers and software
 
@@ -196,6 +230,11 @@ GPS Track Editor is a free Windows application for working with GPS tracks. You 
 
 OziExplorer combines raster maps with GPS data. It supports Garmin, Magellan, Lowrance, Eagle, Brunton/Silva and MLR receivers and allows interactive navigation on raster maps. It was formerly one of the most popular mapping applications, especially on Windows CE handheld devices, but has since been displaced by other software. [https://www.oziexplorer4.com/w/](https://www.oziexplorer4.com/w/)
 
+#### GIS "Panorama"
+
+Panorama is a Russian desktop geographic information system for creating and editing digital maps, making measurements and calculations, performing overlays, processing raster data, preparing printed and electronic graphics, and working with databases. It primarily serves government organizations rather than tourism, but may interest mapping enthusiasts. Maps previously had to be obtained separately. The vendor now describes an address database on an open web server that supports object searches while viewing geoportal imagery; we have not tested it. [https://gisinfo.ru](https://gisinfo.ru)
+
+
 ### Software for mobile devices
 
 #### MAPS.ME
@@ -211,3 +250,9 @@ OsmAnd (OSM Automated Navigation Directions) is open-source software for offline
 iGO is GPS navigation software developed by the Hungarian company NNG (formerly Nav'N'Go). Versions are available for Windows CE, Windows Mobile, Apple iOS and, more recently, Android. It uses maps from Tele Atlas, Navteq and local developers, and is primarily intended for car navigation. [http://www.igonavigation.com/](http://www.igonavigation.com/)
 
 [![](../images/pixabay/compass-3674904_640.png)](../images/pixabay/compass-3674904_1280.png) [Image by Sunny Sunflower from Pixabay](https://pixabay.com/photos/compass-transparency-cutout-3674904/)
+
+## Additional links
+
+Planning walking routes with electronic maps: Google Maps, Google Earth, OpenStreetMap, Wikimapia, Wikiloc, Kompass Karten, Bergfex and others. The lecture is on our [video channel](https://www.youtube.com/channel/UCsYA-4VXxbKB0lWMxkLoxFQ) (Russian).
+
+"Modern sources of mapping information": a video lecture by Sergey Savelyev, an instructor in youth tourism (Russian).

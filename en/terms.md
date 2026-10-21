@@ -11,64 +11,72 @@ aliases:
 
 # Hiking and mountain terminology
 
-Hiking - to walk or march a great distance, especially through rural areas, for pleasure, exercise, training, or the like.
+In its broad English sense, **hiking** means walking a substantial distance, usually in the countryside, for enjoyment, exercise or training. In Russian sporting tourism, **walking tourism** is a discipline in which a group completes a route on foot over relatively gentle terrain.
 
-More detailed terminology (trekking, backpacking, etc.) can have a little different shades of value depending on local features. Nevertheless, probably to use following definitions:
+More specific terms such as trekking and backpacking have different shades of meaning depending on local usage. The following definitions provide a guide.
 
-## English-speaking terminology
+## English-language terminology
 
-**Hiking** is short (as a rule, one-day) the pedestrian travel with light baggage. It is normally used concerning mountain or foothill district though it is unessential (is even the term "city hiking"). Hiking it is normally carried out with use of the marked and well prepared tracks.
+**Hiking** usually means a short, often one-day walk with light equipment, commonly in mountains or foothills, though urban hiking also exists. It often follows marked, well-prepared trails.
 
 [![](../images/pixabay/hiker-918473_640.jpg)](../images/pixabay/hiker-918473_1280.jpg) [Image by Ales Krivec from Pixabay](https://pixabay.com/photos/hiker-standing-woman-top-journey-918473/)
 
-**Trekking** is more difficult and long pedestrian travel. Normally with spending the night which (as it is accepted in Europe) are carried out in campings or mountain shelters. At the same time, tracking is often used as the generalised term (including hiking) and designates the pedestrian travel on the planned routes (a track -- a route).
+Travel expert [Evgeny Dyachenko](https://club-miry.ru/tour-category/evgenij-djachenko/) offers another definition: hiking is lightweight walking in mountain terrain with overnight stays in hotels and dinners in cafés or restaurants.
 
-**Backpacking** is the outdoor recreation of carrying gear on one's back, while hiking for more than a day. It is often but not always an extended journey, and may or may not involve camping outdoors. In North America tenting is common, where simple shelters and mountain huts widely found in Europe are rare. In New Zealand, tramping is the term applied though overnight huts are frequently used. Hill walking is an equivalent in Britain (but this can also refer to a day walk), though backpackers make use of all kinds of accommodation, in addition to camping. Backpackers use simple huts in South Africa. Similar terms used in other countries are trekking and bushwalking.
+**Trekking** means a longer, more demanding walk, usually with overnight stays in campsites or mountain huts, as is common in Europe. It is also used more broadly to include hiking along planned routes.
 
-**Backpacking (another usage of this term)** is a form of low-cost, independent travel. It includes the use of public transport; inexpensive lodging such as youth hostels; often a longer duration of the trip when compared with conventional vacations; and typically an interest in meeting locals as well as seeing sights. Despite the name it does not have to involve travelers carrying belongings in a backpack, although that is a common practice.
+**Backpacking** means a multi-day hike carrying your own equipment, close to the traditional Russian understanding of a camping expedition. It may or may not involve tent camping. Tents are common in North America, while simple shelters and mountain huts are more widespread in Europe. New Zealand's tramping often uses huts; British hillwalking can mean either a day walk or a longer trip with varied accommodation. Backpackers also use simple huts in South Africa. Trekking and bushwalking are related terms used elsewhere.
+
+**Backpacking**, in another sense, means low-cost independent travel, often rejecting tour operators in favor of public transport and inexpensive accommodation such as hostels. Such trips tend to be longer than conventional holidays and emphasize meeting local people as well as sightseeing. Despite the name, carrying a backpack is common but not essential.
 
 [![](../images/pixabay/cappadocia-1602916_640.jpg)](../images/pixabay/cappadocia-1602916_1280.jpg) [Image by Danny Schreiner from Pixabay](https://pixabay.com/photos/cappadocia-tuff-rock-hiking-1602916/)
 
-**Walking** is a general term covering all forms of walking, from a stroll in a park to hiking in the Alps.
+**Walking** covers everything from a stroll in a park to hiking in the Alps.
 
-**Rambling** (an old-fashioned term), hillwalking and fell walking are terms mainly used in Great Britain.
+**Rambling** (an older term), hillwalking and fell walking are mainly used in Great Britain.
 
-**Bushwalking** (walking in a forest) -- the term used in Australia
+**Bushwalking** is an Australian term for walking in the bush or forest.
 
 **Tramping** is the New Zealand term for a long, vigorous walk or hike.
 
-## German-speaking terminology
+## German-language terminology
 
-**Wandern** means hiking and walking, mainly on designated trails, with overnight stays in huts.
+**Wandern** means walks and hikes, mainly on designated trails, with overnight stays in huts.
 
 **Bergwandern** means mountain hiking, crossing passes and staying overnight in tents.
 
-## Russian-speaking terminology
+## Russian-language terminology
 
-**Mountain tourism** is a form of tourism in which a group travels under its own power along a planned route through high mountain terrain. In Russian sporting tourism, there are two mountain disciplines: mountain routes and mountain courses. Competitions are held by tourist clubs and regional sports tourism federations.
+**Mountain tourism** is a form of tourism in which a group travels under its own power along a planned high-mountain route. Russian sporting mountain tourism has two disciplines: mountain routes and mountain courses, with competitions at club and regional federation levels.
 
 [![](../images/pixabay/hiker-1763517_640.jpg)](../images/pixabay/hiker-1763517_1280.jpg) [Image by skeeze from Pixabay](https://pixabay.com/photos/hiker-mountain-backpacking-hiking-1763517/)
 
+**Mountaineering** aims at ascending mountain summits, while Russian mountain tourism focuses on crossing passes of a given difficulty, sometimes also climbing summits. At the highest difficulty levels the distinction becomes blurred. In broader English usage, mountaineering includes traditional climbing, hiking, skiing and via ferratas; some also include indoor climbing, sport climbing and bouldering.
+
 [![](../images/pixabay/climber-59681_640.jpg)](../images/pixabay/climber-59681_1280.jpg) [Image by Hans Braxmeier from Pixabay](https://pixabay.com/photos/climber-steep-descent-climb-59681/)
+
+**Rock climbing** involves ascending, descending or traversing natural rock or artificial walls. It originated as part of mountaineering but is now an independent sport. The objective is to finish a route or reach a summit without falling; competitions may emphasize speed or the highest point reached on a progressively harder route.
 
 [![](../images/pixabay/climb-3590655_640.jpg)](../images/pixabay/climb-3590655_1280.jpg) [Image by joergweitz from Pixabay](https://pixabay.com/photos/climb-mountaineering-mountaineer-3590655/)
 
 ## Additional definitions
 
-**Rock climbing** is a sport in which participants climb up, down or across natural rock formations or artificial rock walls. The goal is to reach the summit of a formation or the endpoint of a usually pre-defined route without falling. Professional rock climbing competitions have the objectives of either completing the route in the quickest possible time or attaining the farthest point on an increasingly difficult route.
+**Lightweight and ultralight backpacking** aims to minimize equipment weight without compromising safety. "Who are lightweight hikers, where do they go and how can you become one?" [https://trekkingmania.ru/legkohodstvo\_eto/](https://trekkingmania.ru/legkohodstvo_eto/). Related resources include Richard Delong's Russian-language lightweight hiking site [https://legkohod.com](https://legkohod.com), the VK community [https://vk.com/lightpacker\_ru](https://vk.com/lightpacker_ru), and an annual lightweight hikers' gathering [https://trekkingmania.ru/slyot\_legkoxodov\_2018](https://trekkingmania.ru/slyot_legkoxodov_2018). Conventional equipment often weighs over 14 kg without food. There are no firm boundaries, but illustrative equipment weights are around 10 kg for lightweight hiking, 5 kg for ultralight and 2.5 kg for super-ultralight. [https://en.wikipedia.org/wiki/Ultralight\_backpacking](https://en.wikipedia.org/wiki/Ultralight_backpacking)
 
-**Mountaineering** is the set of activities that involves ascending mountains. Mountaineering-related activities include traditional outdoor climbing, hiking, skiing, and traversing via ferratas. Indoor climbing, sport climbing and bouldering are also considered mountaineering by some.
+**Scrambling** is movement on steep terrain that requires the use of hands. It lies between walking, hillwalking, mountaineering and rock climbing, and may also occur in canyoning.
 
-**Lightweight (ultralight) backpacking** -- an approach to hiking that aims to minimize equipment weight without compromising safety. [https://en.wikipedia.org/wiki/Ultralight\_backpacking](https://en.wikipedia.org/wiki/Ultralight_backpacking)
+**Alpine scrambling** is off-trail travel, often over snow or rock, with a non-technical ascent as its objective. Here, non-technical means not requiring specific mountaineering equipment such as harnesses, ropes or protection, and not involving steep slopes or glaciers. The term may include low-angle rock, scree, stream crossings, dense vegetation and snowy slopes.
 
-**Scrambling** (also known as alpine scrambling) is "a walk up steep terrain involving the use of one's hands". It is an ambiguous term that lies somewhere between hiking, hillwalking, mountaineering, and rock climbing. Canyoning often involves scrambling.
+**Nordic walking** uses a specific walking technique and specially designed poles similar to ski poles. It is a whole-body activity practiced for health by non-athletes and as a sport by athletes, and became popular worldwide in the late 1990s.
 
-**Nordic walking** is a total body version of walking that can be enjoyed both by non-athletes as a health-promoting physical activity, and by athletes as a sport. The activity is performed with specially designed walking poles similar to ski poles.
+**Canyoning** (canyoneering in the United States, kloofing in South Africa) means moving through canyons without boats, rafts or similar craft, using techniques such as walking, scrambling, climbing, jumping, abseiling and swimming. The terms are most often associated with technical descents requiring ropes, down-climbing, jumps or swims, though simple canyon hikes are also sometimes called canyoneering. Remote terrain often requires navigation, route-finding and wilderness skills. [https://en.wikipedia.org/wiki/Canyoning](https://en.wikipedia.org/wiki/Canyoning)
 
-**Canyoning** (**canyoneering** in the United States, kloofing in South Africa) is travelling in canyons using a variety of techniques that may include other outdoor activities such as walking, scrambling, climbing, jumping, abseiling (rappelling), and swimming. Although non-technical descents such as hiking down a canyon (canyon hiking) are often referred to as canyoneering, the terms canyoning and canyoneering are more often associated with technical descents - those that require abseils (rappels) and ropework, technical climbing or down-climbing, technical jumps, and/or technical swims. Canyoning is frequently done in remote and rugged settings and often requires navigational, route-finding, and other wilderness travel skills. [https://en.wikipedia.org/wiki/Canyoning](https://en.wikipedia.org/wiki/Canyoning)
-
-**Hitchhiking** (also known as thumbing or hitching) is a means of transportation that is gained by asking individuals, usually strangers, for a ride in their automobile or other vehicle. A ride is usually, but not always, free. Itinerants have also used hitchhiking as a primary mode of travel for the better part of the last century, and continue to do so today.
-
+**Hitchhiking** means asking passing drivers, usually strangers, for a lift towards your destination. Rides are usually free, though not always. Hitchhiking has also served as a main form of travel for itinerants over much of the last century.  
 **Materials used:**
 
-* Wikipedia [https://en.wikipedia.org/wiki/Hiking](https://en.wikipedia.org/wiki/Hiking) [https://en.wikipedia.org/wiki/Scrambling](https://en.wikipedia.org/wiki/Scrambling) and other articles
+* Wikipedia: "Walking tourism" [https://ru.wikipedia.org/wiki/Пешеходный\_туризм](https://ru.wikipedia.org/wiki/Пешеходный_туризм), "Hiking" [https://en.wikipedia.org/wiki/Hiking](https://en.wikipedia.org/wiki/Hiking), "Scrambling" [https://en.wikipedia.org/wiki/Scrambling](https://en.wikipedia.org/wiki/Scrambling), and other articles.
+* Trekking, hiking and backpacking (Russian): [https://www.marshrut-club.com/articles/7654](https://www.marshrut-club.com/articles/7654)
+* What are trekking, hiking and backpacking? (Russian): [https://trekkingmania.ru/chto\_takoe\_treking/](https://trekkingmania.ru/chto_takoe_treking/)
+* Equipment for hiking, trekking and backpacking (Russian): [https://turclub-pik.ru/blog/vse-dlya-hajkinga-trekinga-i-bekpekinga/](https://turclub-pik.ru/blog/vse-dlya-hajkinga-trekinga-i-bekpekinga/)
+* [http://ski.ru/az/blogs/post/kratkii-slovarik-lyzhebordera-v-gorakh/](http://ski.ru/az/blogs/post/kratkii-slovarik-lyzhebordera-v-gorakh/) An illustrated mountain glossary (Russian). For example, a **couloir** (French for passage or corridor) is a trough-shaped or V-shaped hollow down a steep mountainside. Broad at the top and narrow below, it may be tens of metres wide and extend the full height of the slope. Depending on season and terrain, it may hold snow, firn or ice. It is a natural route for rockfalls and avalanches; its often-gullied bottom is the most dangerous part.
+* [http://svastour.ru/termin.htm](http://svastour.ru/termin.htm) Hiking terminology (Russian).

@@ -15,17 +15,17 @@ Reference information about transport for tourists in Europe.
 
 ## All types of transport
 
-[https://www.rome2rio.com/](https://www.rome2rio.com/) The Rome2rio transport portal simplifies journey planning. It provides door-to-door travel and booking information to help you travel from anywhere in the world. Enter an address, attraction or city as your destination, and the site displays travel and booking options, accommodation and attractions in one place.
+[https://www.rome2rio.com/](https://www.rome2rio.com/) Rome2rio simplifies journey planning with door-to-door transport and booking information. Enter an address, attraction or city as your destination to see travel options, booking information, accommodation and nearby attractions in one place.
 
 ## Air travel
 
-Sites for finding cheap flights:
+Sites for finding inexpensive flights:
 
 [https://www.skyscanner.com](https://www.skyscanner.com/)
 
 ### easyJet
 
-[https://www.easyjet.com/en/holidays/destinations](https://www.easyjet.com/en/holidays/destinations) This guide provides access to easyJet flight bookings, travel deals and comprehensive travel information.
+[https://www.easyjet.com/en/holidays/destinations](https://www.easyjet.com/en/holidays/destinations) Access to easyJet flight bookings, holiday offers and comprehensive travel information.
 
 ### TUI UK
 
@@ -35,100 +35,128 @@ Sites for finding cheap flights:
 
 [https://www.tuiholidays.ie/flight](https://www.tuiholidays.ie/flight)
 
-## Railway transport
+## Rail transport
 
 ![](../images/pixabay/chiemgau-3169873_640.jpg)
 
-### The Austrian railways
+### Austrian Railways
 
-[http://www.oebb.at](https://www.oebb.at/) an official site
+[http://www.oebb.at](https://www.oebb.at/) Official website.
 
 ### EuroNight
 
-EuroNight (in abbreviated form EN) - the main national and international night trains within the limits of the European net of the long-distance railways
+EuroNight (EN) refers to national and international long-distance night trains within the European intercity rail network.
 
-[https://www.nightjet.com/](https://www.nightjet.com/) an official site
+[https://www.nightjet.com/](https://www.nightjet.com/) Official website.
 
-### The German railways
+### German Railways
 
-[http://www.bahn.de](http://www.bahn.de) an official site
+[http://www.bahn.de](http://www.bahn.de) Official website.
 
-### The Swiss railways
+"Across Germany by train for 15 euros": an article about railway discounts (Russian). [http://traveltu.ru/evropa/germaniya/na-poezdah-po-germanii-za-15-evro.html](http://traveltu.ru/evropa/germaniya/na-poezdah-po-germanii-za-15-evro.html)
 
-[http://www.sbb.ch/en/home.html](http://www.sbb.ch/en/home.html) an official site
+### Swiss Railways
 
-### The Italian railways
+[http://www.sbb.ch/en/home.html](http://www.sbb.ch/en/home.html) Official website.
 
-[http://www.trenitalia.com](http://www.trenitalia.com) an official site
+### Italian Railways
 
-### The French railways
+[http://www.trenitalia.com](http://www.trenitalia.com) Official website.
 
-[http://www.tgv-europe.com](http://www.tgv-europe.com) official site TGV
+### French Railways
+
+[http://www.tgv-europe.com](http://www.tgv-europe.com) Official TGV website.
 
 [https://www.thalys.com](https://www.thalys.com)
 
 [http://voyages-sncf.com](http://voyages-sncf.com)
 
-### The Polish railways
+### Polish Railways
 
-[https://www.intercity.pl/en/](https://www.intercity.pl/en/) an official site
+[https://www.intercity.pl/en/](https://www.intercity.pl/en/) Official website.
 
-### The Hungarian railways
+Polish railways: buying tickets online, and the stations in Wrocław and Kraków (Russian). [https://elenapuzatko.com/polskie-zheleznye-dorogi/](https://elenapuzatko.com/polskie-zheleznye-dorogi/)
 
-[https://www.mavcsoport.hu/en](https://www.mavcsoport.hu/en) an official site
+### Hungarian Railways
 
-### The Russian railways
+[https://www.mavcsoport.hu/en](https://www.mavcsoport.hu/en) Official website.
 
-[http://www.rzd.ru/](http://www.rzd.ru/) an official site
+### Russian Railways
 
-[http://forum.railwayclub.info/](http://forum.railwayclub.info/) the Forum of passengers of the Russian Railway
+[http://www.rzd.ru/](http://www.rzd.ru/) Official website.
 
-### The Ukrainian railways
+[http://forum.railwayclub.info/](http://forum.railwayclub.info/) Russian Railways passengers' forum.
 
-[http://booking.uz.gov.ua](http://booking.uz.gov.ua) an official site
+### Ukrainian Railways
 
-### The Belarus railways
+[http://booking.uz.gov.ua](http://booking.uz.gov.ua) Official website.
 
-[http://rasp.rw.by/ru](http://rasp.rw.by/ru) an official site
+### Belarusian Railways
 
-### The Serbian railways
+[http://rasp.rw.by/ru](http://rasp.rw.by/ru) Official website.
 
-[http://www.zeleznicesrbije.com](http://www.zeleznicesrbije.com) an official site
+### Serbian Railways
 
-## Bus service
+[http://www.zeleznicesrbije.com](http://www.zeleznicesrbije.com) Official website.
 
-The Austrian buses [http://www.postbus.at](http://www.postbus.at)
+### Related links
 
-The international bus companies:
+[https://krisha0703.livejournal.com/154098.html](https://krisha0703.livejournal.com/154098.html) [https://krisha0703.livejournal.com/154214.html](https://krisha0703.livejournal.com/154214.html) Trip report: "Around the Baltic by train" (Russian).
+
+[https://heming-fromelko.livejournal.com/](https://heming-fromelko.livejournal.com/) A blog with accounts of rail journeys around the world (Russian).
+
+## Bus services
+
+Austrian buses: [http://www.postbus.at](http://www.postbus.at)
+
+International bus companies:
 
 [https://www.flixbus.com](https://www.flixbus.com)
 
 [https://meinfernbus.de/](https://meinfernbus.de/)
 
-## Ferry
+## Water transport
 
-Ferries to Corsica [https://www.corsica-ferries.co.uk](https://www.corsica-ferries.co.uk)
+Ferries to Corsica: [https://www.corsica-ferries.co.uk](https://www.corsica-ferries.co.uk)
 
-Ferries Italy - Montenegro [http://www.montenegrolines.com](http://www.montenegrolines.com)
+Ferries between Italy and Montenegro: [http://www.montenegrolines.com](http://www.montenegrolines.com)
 
-## Cars
+## Road transport
 
 ![](../images/pixabay/highway-3775809_640.jpg)
 
-Car rental
+Car rental comparison services:
 
 [https://www.rentalcars.com/](https://www.rentalcars.com/)
 
 [https://www.global-rent-a-car.com](https://www.global-rent-a-car.com)
 
-[https://www.viamichelin.com/](https://www.viamichelin.com/)An interactive site for planning driving routes, including cost estimates (fuel and tolls)
+[https://www.viamichelin.com/](https://www.viamichelin.com/) An interactive driving route planner, including cost estimates for fuel and toll roads.
+
+[https://autotraveler.ru/](https://autotraveler.ru/) Information about European roads (Russian).
+
+[https://park4night.com/](https://park4night.com/) Website and application for finding overnight parking.
+
+[http://forum.autoua.net/](http://forum.autoua.net/) Ukrainian motoring forum.
 
 [![](../images/pixabay/highland-2576780_640.jpg)](../images/pixabay/highland-2576780_1280.jpg) [Image by StockSnap from Pixabay](https://pixabay.com/photos/highland-cliff-rock-hill-travel-2576780/)
 
-## Cable cars
+## Cities and transport hubs
 
-Summer cable cars operate in almost every Alpine region. Prices range from 5 to 100 euros or more for a single ascent. Check operating periods on the cable car websites. Some close for maintenance after the winter season and reopen only at the start of the summer high season (July–August).
+### Vienna
 
-Example: a cable car to the Dachstein plateau (south side) [https://www.derdachstein.at/en/tickets-infos/ascent-and-descent](https://www.derdachstein.at/en/tickets-infos/ascent-and-descent)
+Travel from the airport to the city center: [https://www.wien.info/ru/travel-info/to-and-around/airport-to-center](https://www.wien.info/ru/travel-info/to-and-around/airport-to-center). The same website also explains local transport passes. Another guide (Russian): [http://europagid.com/kak-dobratsya-iz-aeroporta-veny-shvexat/](http://europagid.com/kak-dobratsya-iz-aeroporta-veny-shvexat/).
+
+Vienna metro and suburban rail map: [http://empirically.net/austria/метро-вены/](http://empirically.net/austria/метро-вены/)
+
+Getting from Bratislava Airport to Vienna (Russian): [https://inostranno.ru/transport/bratislava-airport-transfer/](https://inostranno.ru/transport/bratislava-airport-transfer/)
+
+## Cable cars and funiculars
+
+Summer cable cars operate in almost every Alpine region. Prices range from 5 to 100 euros or more for a single ascent. Check the operating period on the cable car website: some close for maintenance after winter and reopen only at the beginning of the summer high season, in July or August.
+
+Example: the cable car to the Dachstein plateau on the southern side. [https://www.derdachstein.at/en/tickets-infos/ascent-and-descent](https://www.derdachstein.at/en/tickets-infos/ascent-and-descent)
+
+Article: "A view from above: Europe's most spectacular cable cars" (Russian). [https://34travel.me/post/kanatka](https://34travel.me/post/kanatka)
 
 [![](../images/pixabay/funicular-railway-1611996_640.jpg)](../images/pixabay/funicular-railway-1611996_1280.jpg) [Image by Erich Westendarp from Pixabay](https://pixabay.com/photos/funicular-railway-aussichtspinkt-1611996/)

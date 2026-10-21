@@ -27,6 +27,14 @@ aliases:
 
 [https://www.easyjet.com/en/holidays/destinations](https://www.easyjet.com/en/holidays/destinations) Этот справочник предоставит доступ к бронированию билетов на рейсы easyJet, туристическим предложениям и исчерпывающей информации о путешествиях.
 
+### TUI UK
+
+[https://www.tui.co.uk/flight](https://www.tui.co.uk/flight)
+
+### TUI Ireland
+
+[https://www.tuiholidays.ie/flight](https://www.tuiholidays.ie/flight)
+
 ## Железнодорожный транспорт
 
 ![](../images/pixabay/chiemgau-3169873_640.jpg)
@@ -35,7 +43,7 @@ aliases:
 
 [http://www.oebb.at](https://www.oebb.at/) официальный сайт
 
-### Eвронайт
+### Евронайт
 
 EuroNight (сокращенно EN) - магистральные национальные и международные ночные поезда в рамках Европейской сети междугородних железных дорог
 

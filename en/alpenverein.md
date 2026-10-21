@@ -21,9 +21,13 @@ Alpine clubs are hiking and mountaineering organizations found in several Europe
 * Discounts on climbing equipment rental;
 * Access to training courses, instructional literature, maps and so forth;
 
+See "Benefits of membership in European Alpine clubs" (Russian): [http://spryquest.com/blog/blog\_46.html?l=ru](http://spryquest.com/blog/blog_46.html?l=ru)
+
 Membership fees vary by club and regional branch.
 
-Whether joining an Alpine club and paying membership dues is worthwhile for a foreign participant is a matter for each person to decide.
+Whether joining an Alpine club and paying membership dues is worthwhile for foreign participants is an individual decision. A discussion on the Risk forum (Russian): [https://www.risk.ru/blog/15122](https://www.risk.ru/blog/15122).
+
+Instructions for applying for membership, with a detailed guide to joining an Alpine club (Russian): [http://www.kombrig.net/vstuplenie\_v\_alpklub.htm](http://www.kombrig.net/vstuplenie_v_alpklub.htm).
 
 [![](../images/pixabay/highway-2498002_640.jpg)](../images/pixabay/highway-2498002_1280.jpg) [Image by M. Maggs from Pixabay](https://pixabay.com/photos/highway-mountain-trees-forest-2498002/)
 
@@ -42,7 +46,9 @@ In any case, learning about the activities of Alpine clubs is useful for hikers.
 > The German Alpine Club (German: Deutscher Alpenverein, DAV) is the world's largest climbing association, and the eighth-largest sports union in Germany. The Club is a member of the German Olympic Sports Confederation, and the responsible body for sport and competition climbing, hiking, mountaineering, hill walking, ice climbing, mountain expeditions, as well as ski mountaineering.
 > [https://en.wikipedia.org/wiki/German\_Alpine\_Club](https://en.wikipedia.org/wiki/German_Alpine_Club)
 
-ASS insurance covers all of Europe. Worldwide coverage is available for an additional fee.  
+The figures given here list 354 legally independent associations and clubs, with around 988,000 members. The club brings together professionals and enthusiasts in mountaineering, rock climbing, mountain hiking, ice climbing, ski mountaineering and mountain biking.
+
+ASS insurance covers all of Europe, including the Caucasus. Worldwide coverage is available for an additional fee.  
 Membership dues differ from section to section, depending on their size and offers. Adult membership costs from 45 to 90 euros for a calendar year.
 
 Official site: [https://www.alpenverein.de/](https://www.alpenverein.de/)
